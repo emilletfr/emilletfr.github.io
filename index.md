@@ -19,7 +19,7 @@ Just imagine… all on one screen: radio, weather forecast, photo album with per
 </td>
 </tr>
 <tr>
-<td style="height: 10px;">
+<td style="border-top-color:transparent; height: 10px;">
 </td>
 </tr>
 </table>
@@ -39,6 +39,10 @@ Just imagine… all on one screen: radio, weather forecast, photo album with per
 iDictée
 </h3>
 “Mince… Comment ça s’écrit déjà ?” Qui n’a pas eu ce genre d’hésitation au moment de rédiger : un mail professionnel, privé, une dissertation, une rédaction, un SMS, une lettre de motivation et son CV
+</td>
+</tr>
+<tr>
+<td style="border-top-color:transparent; height: 10px;">
 </td>
 </tr>
 </table>
