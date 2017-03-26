@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Applications for iPhone, iPad and iPod Touch
+#### Applications for iPhone, iPad and iPod touch
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AowatUuvRz0?autoplay=1" frameborder="0" allowfullscreen></iframe>
