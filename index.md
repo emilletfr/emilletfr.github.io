@@ -11,6 +11,23 @@ Applications for iPhone, iPad and iPod touch
 </p>
 -->
 
+<table align="center">
+<tr>
+<td>
+
+<img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
+</td>
+
+<td>
+
+iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj 
+</td>
+
+</tr>
+
+
+</table>
+
 <h2 align="center">
 Sonio
 </h2>
