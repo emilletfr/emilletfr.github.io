@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<p align="center">
+
 Applications for iPhone, iPad and iPod touch
-</p>
+
 
 <!--
 <p align="center">
