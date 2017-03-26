@@ -11,6 +11,7 @@ Applications for iPhone, iPad and iPod touch
 
 Sonio
 <p align="center">
+<img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" /> 
 ![Sonio Logo](/images/Sonio-Logo.png)
 </p>
 
