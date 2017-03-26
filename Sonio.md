@@ -5,6 +5,9 @@ permalink: /sonio/
 tags: sonio
 ---
 
+![Sonio Logo](/images/Sonio-Logo.png)
+
+
 Just imagine... all on one screen: radio, weather forecast, photo album with personalised slideshows and digital clock with alarm. Top of the range and amazingly easy to program, practical and in a stunning design. This is... "Sonio Pro - Alarm Clock Radio" !
 
 Among the features: 
