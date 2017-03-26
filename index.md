@@ -12,12 +12,11 @@ Applications for iPhone, iPad and iPod touch
 Sonio
 <p align="center">
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" /> 
-![Sonio Logo](/images/Sonio-Logo.png)
 </p>
 
 
 
 iDictée
 <p align="center">
-![iDictee Logo](/images/iDictee-Logo.png)
+<img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" /> 
 </p>
