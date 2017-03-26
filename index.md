@@ -12,9 +12,9 @@ Applications for iPhone, iPad and iPod touch
 <p align="center">
 Sonio
 </p>
-<p align="center" style="display:table-cell; vertical-align:middle; text-align:center">
-<img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" /> 
-<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" /> 
+<p  align="center">
+<img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="display: block; margin: auto; width: 40%;"/> 
+<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="display: block; margin: auto; width: 40%;"/> 
 </p>
 
 
