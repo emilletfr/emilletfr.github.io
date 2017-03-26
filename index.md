@@ -25,5 +25,9 @@ iDictée
 </p>
 <p align="center">
 <img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
+iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj 
+</p>
+
+<p align="center">
 <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
 </p>
