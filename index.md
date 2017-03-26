@@ -11,6 +11,8 @@ layout: default
 
 # Sonio
 
+![Sonio Logo](/images/Sonio-Logo.png)
+
 
 
 # iDictée
