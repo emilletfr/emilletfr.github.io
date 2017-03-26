@@ -10,11 +10,13 @@ Applications for iPhone, iPad and iPod touch
 
 
 Sonio
-
+<p align="center">
 ![Sonio Logo](/images/Sonio-Logo.png)
+</p>
 
 
 
 iDictée
-
+<p align="center">
 ![iDictee Logo](/images/iDictee-Logo.png)
+</p>
