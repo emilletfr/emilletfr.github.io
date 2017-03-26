@@ -11,7 +11,7 @@ Applications for iPhone, iPad and iPod touch
 <td style="border-top-color:transparent; width: 120px; height: 120px;">
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
 </td>
-<td style="border-top-color:transparent; width: 120px; height: 120px;">
+<td style="border-top-color:transparent; height: 120px;">
 <h3>
 Sonio
 </h3>
