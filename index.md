@@ -18,6 +18,10 @@ Sonio
 Just imagine… all on one screen: radio, weather forecast, photo album with personalised slideshows and digital clock with alarm. Top of the range and amazingly easy to program, practical and in a stunning design. This is… “Sonio Pro - Alarm Clock Radio” !
 </td>
 </tr>
+<tr>
+<td style="height: 10px;">
+</td>
+</tr>
 </table>
 
 <p  align="center" style="display: block;">
