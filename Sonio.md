@@ -2,7 +2,7 @@
 layout: page
 title: Sonio
 permalink: /sonio/
-tags: main
+tags: 2-mainNav
 ---
 
 Sonio
