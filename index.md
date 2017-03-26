@@ -20,6 +20,7 @@ Sonio
 </p>
 <p  align="center" style="display: block;">
 <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
+iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj 
 </p>
 
 <p align="center">
@@ -32,5 +33,4 @@ iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj
 
 <p align="center">
 <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
-iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj 
 </p>
