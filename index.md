@@ -14,9 +14,11 @@ Sonio
 </p>
 <p  align="center" style="display: block;">
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/> 
+
+</p>
+<p  align="center" style="display: block;">
 <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
 </p>
-
 
 <p align="center">
 iDictée
