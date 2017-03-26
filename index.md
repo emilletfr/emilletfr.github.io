@@ -34,7 +34,7 @@ Just imagine… all on one screen: radio, weather forecast, photo album with per
 <h3>
 iDictée
 </h3>
-iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj 
+“Mince… Comment ça s’écrit déjà ?” Qui n’a pas eu ce genre d’hésitation au moment de rédiger : un mail professionnel, privé, une dissertation, une rédaction, un SMS, une lettre de motivation et son CV
 </td>
 </tr>
 </table>
