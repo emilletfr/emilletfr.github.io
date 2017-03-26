@@ -12,7 +12,7 @@ Applications for iPhone, iPad and iPod touch
 -->
 
 
-<table align="center" style="border-spacing:0">
+<table align="center" style="border-spacing:0; border-top-color:transparent;">
 <tr>
 <td>
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
