@@ -6,7 +6,7 @@ Applications for iPhone, iPad and iPod touch
 
 
 
-<table align="center" style="border-spacing:0; height: 120px;">
+<table align="center" style="border-spacing:0;">
 <tr>
 <td style="border-top-color:transparent; width: 120px; height: 120px;">
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
