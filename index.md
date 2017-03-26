@@ -16,3 +16,5 @@ layout: default
 
 
 # iDictée
+
+![iDictee Logo](/images/iDictee-Logo.png)
