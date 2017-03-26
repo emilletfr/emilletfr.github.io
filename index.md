@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Applications for iPhone, iPad and iPod touch
 
 
 <!--
