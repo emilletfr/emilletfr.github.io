@@ -5,6 +5,8 @@ permalink: /idictee/
 tags: idictee
 ---
 
+![iDictee Logo](/images/iDictee-Logo.png)
+
 "Mince... Comment ça s'écrit déjà ?" 
 
 Qui n'a pas eu ce genre d'hésitation au moment de rédiger : 
