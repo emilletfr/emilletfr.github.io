@@ -2,7 +2,7 @@
 layout: page
 title: iDictée
 permalink: /idictee/
-tags: iDictee
+tags: idictee
 ---
 
 ljhgkjhghjk
