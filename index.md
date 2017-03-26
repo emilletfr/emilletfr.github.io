@@ -27,7 +27,7 @@ Just imagine… all on one screen: radio, weather forecast, photo album with per
 
 <table align="center">
 <tr>
-<td style="border-top-color:transparent;">
+<td style="border-top-color:transparent; width: 120px;">
 <img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
 </td>
 <td style="border-top-color:transparent;">
