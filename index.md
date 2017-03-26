@@ -5,9 +5,11 @@ layout: default
 Applications for iPhone, iPad and iPod touch
 </p>
 
+<!--
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AowatUuvRz0?autoplay=1" frameborder="0" allowfullscreen></iframe>
 </p>
+-->
 
 <p align="center">
 Sonio
@@ -30,4 +32,5 @@ iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj
 
 <p align="center">
 <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
+iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj 
 </p>
