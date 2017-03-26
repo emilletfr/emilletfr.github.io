@@ -31,7 +31,7 @@ Just imagine… all on one screen: radio, weather forecast, photo album with per
 <img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
 </td>
 <td style="border-top-color:transparent;">
-<h3>
+<h3 style="margin-top:0">
 iDictée
 </h3>
 “Mince… Comment ça s’écrit déjà ?” Qui n’a pas eu ce genre d’hésitation au moment de rédiger : un mail professionnel, privé, une dissertation, une rédaction, un SMS, une lettre de motivation et son CV
