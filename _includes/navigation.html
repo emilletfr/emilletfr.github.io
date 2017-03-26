@@ -1,19 +1,18 @@
-{% for page in site.pages %}
-    {% if page.tags contains "main" %}
-        <a href="{{ page.url }}">{{ page.title }}</a>
-    {% endif %}
-{% endfor %}
 
-<!--
  {% for page in site.pages %}
-    {% if page.tags contains "about" %}
+    {% if page.tags contains "Sonio" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}
 {% for page in site.pages %}
-    {% if page.tags contains "contact" %}
+    {% if page.tags contains "iDictee" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+{% for page in site.pages %}
+    {% if page.tags contains "Contact" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}
 
--->
+
