@@ -11,7 +11,7 @@ Applications for iPhone, iPad and iPod touch
 </p>
 -->
 
-<table align="center">
+<table align="center" style="border: 1px solid white;">
 <tr>
 <td>
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
