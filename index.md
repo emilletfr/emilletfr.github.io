@@ -19,10 +19,17 @@ Applications for iPhone, iPad and iPod touch
 </td>
 
 <td>
-
+<h2>
+Sonio
+</h2>
 iDiùlkjmlkjmlkklm mlkmlk lkjmlk lmkmklhj 
 </td>
 
+</tr>
+<tr>
+<td>
+<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
+</td>
 </tr>
 
 
