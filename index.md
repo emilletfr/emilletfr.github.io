@@ -14,6 +14,7 @@ Sonio
 </p>
 <p align="center">
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" /> 
+<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" /> 
 </p>
 
 
@@ -21,5 +22,6 @@ Sonio
 iDictée
 </p>
 <p align="center">
-<img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" /> 
+<img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" />
+<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" /> 
 </p>
