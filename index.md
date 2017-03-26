@@ -14,7 +14,7 @@ Sonio
 </p>
 <p  align="center" style="display: block;">
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/> 
-<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 120px; height: 60px;"/> 
+<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
 </p>
 
 
@@ -22,6 +22,6 @@ Sonio
 iDictée
 </p>
 <p align="center">
-<img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" />
-<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" /> 
+<img src="/images/iDictee-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;"/>
+<img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 135px; height: 40px;"/> 
 </p>
