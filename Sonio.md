@@ -5,7 +5,7 @@ permalink: /sonio/
 tags: sonio
 ---
 
-![Sonio Logo](/images/Sonio-Logo.png)
+<img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 120px; height: 120px;" />
 
 
 Just imagine... all on one screen: radio, weather forecast, photo album with personalised slideshows and digital clock with alarm. Top of the range and amazingly easy to program, practical and in a stunning design. This is... "Sonio Pro - Alarm Clock Radio" !
