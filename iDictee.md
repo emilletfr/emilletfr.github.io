@@ -5,7 +5,7 @@ permalink: /idictee/
 tags: idictee
 ---
 
-<img src="/images/iDictee-Logo.png" alt="iDictée" title="iDictée" style="width: 120px; height: 120px;" />
+<img src="/images/iDictee-Logo.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px;" />
 
 
 "Mince... Comment ça s'écrit déjà ?" 
