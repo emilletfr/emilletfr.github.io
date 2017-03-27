@@ -10,7 +10,7 @@ tags: sonio
 
 Just imagine... all on one screen: radio, weather forecast, photo album with personalised slideshows and digital clock with alarm. Top of the range and amazingly easy to program, practical and in a stunning design. This is... "Sonio Pro - Alarm Clock Radio" !
 
-Among the features: 
+Among the features:
 
 - Wake to choice by the radio, songs of iPod library, the buzzer, or the sounds of nature and this, even if the App is closed.
 
