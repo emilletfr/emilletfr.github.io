@@ -7,7 +7,7 @@ tags: sonio
 
 <img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
 
-### Sonio
+## Sonio
 
 Alarm Clock Radio
 

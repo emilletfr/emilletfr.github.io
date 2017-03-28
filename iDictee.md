@@ -7,7 +7,7 @@ tags: idictee
 
 <img src="/images/iDictee-Logo.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
 
-### iDictée + 
+## iDictée + 
 
 "Mince... Comment ça s'écrit déjà ?" 
 
