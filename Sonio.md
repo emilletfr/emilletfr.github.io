@@ -5,8 +5,11 @@ permalink: /sonio/
 tags: sonio
 ---
 
-<img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 60px; height: 60px;" />
+<img src="/images/Sonio-Logo.png" alt="Sonio" title="Sonio" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
 
+### Sonio
+
+Alarm Clock Radio
 
 Just imagine... all on one screen: radio, weather forecast, photo album with personalised slideshows and digital clock with alarm. Top of the range and amazingly easy to program, practical and in a stunning design. This is... "Sonio Pro - Alarm Clock Radio" !
 
@@ -53,3 +56,8 @@ Among the features:
 - Management of standby mode. 
 
 - Complete translation in English, German, French, Dutch, Italian, Spanish, Portuguese.
+
+
+<div style="width:100%; height: 60px; vertical-align:middle; text-align:center; float:none">
+  <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 120px; height: 36px;"/> <!-- 135px x 40px -->
+</div>

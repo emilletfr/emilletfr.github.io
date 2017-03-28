@@ -5,8 +5,9 @@ permalink: /idictee/
 tags: idictee
 ---
 
-<img src="/images/iDictee-Logo.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px;" />
+<img src="/images/iDictee-Logo.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
 
+### iDictée + 
 
 "Mince... Comment ça s'écrit déjà ?" 
 
@@ -37,3 +38,8 @@ Bonne dictée à tous !
 
 
 - Application conçue et réalisée en France -
+
+
+<div style="width:100%; height: 60px; vertical-align:middle; text-align:center; float:none">
+  <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 120px; height: 36px;"/> <!-- 135px x 40px -->
+</div>
