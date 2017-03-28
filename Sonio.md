@@ -59,5 +59,11 @@ Among the features:
 
 
 <div style="width:100%; height: 60px; vertical-align:middle; text-align:center; float:none">
-  <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 120px; height: 36px;"/> <!-- 135px x 40px -->
+  <a href="https://itunes.apple.com/app/id408218666?mt=8" style="text-decoration: none;">
+    <div>
+      <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 120px; height: 36px;"
+      />
+      <!-- 135px x 40px -->
+    </div>
+  </a>
 </div>
