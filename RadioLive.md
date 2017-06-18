@@ -33,7 +33,7 @@ Radio Live! ... all your favorite radios stations always nearby!
 
 
 <div style="width:100%; height: 60px; vertical-align:middle; text-align:center; float:none">
-  <a href="https://itunes.apple.com/app/id1246039415?mt=8" style="text-decoration: none;">
+  <a href="https://itunes.apple.com/app/id524365744?mt=8" style="text-decoration: none;">
     <div>
       <img src="/images/App-Store-Badge.png" alt="Download on the App Store" title="Download on the App Store" style="width: 120px; height: 36px;"
       />
