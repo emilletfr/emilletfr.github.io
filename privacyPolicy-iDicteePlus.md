@@ -5,7 +5,7 @@ permalink: /privacyPolicy-iDicteePlus/
 tags: privacyPolicy
 ---
 
-## iDictée + : Privacy Policy
+## iDictée + / Privacy Policy
 
 Eric Millet built the iDictée + app as a Commercial app. This SERVICE is provided by Eric Millet and is intended for use as is.
 
