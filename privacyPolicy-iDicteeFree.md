@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy iDictée
 permalink: /privacyPolicy-iDicteeFree/
-tags: idictee
+tags: privacyPolicy
 ---
 
 ## Privacy Policy
