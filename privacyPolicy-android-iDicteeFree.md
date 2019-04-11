@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Privacy Policy iDictée
@@ -6,7 +5,7 @@ permalink: /privacyPolicy-android-iDicteeFree/
 tags: privacyPolicy
 ---
 
-## Privacy Policy for iDictée Gratuit
+## Privacy Policy for iDictée Gratuit 
 
 Eric Millet built the iDictée Gratuit app as a Free app. This SERVICE is provided by Eric Millet at no cost and is intended for use as is.
 
