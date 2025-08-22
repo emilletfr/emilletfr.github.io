@@ -30,14 +30,14 @@ En 10mn (grand maximum), vous pourrez faire une, ou plus, des dizaines de dicté
 
 Question : Vous n'avez pas décelé de faute dans les deux phrases précédentes ? Il est alors temps de vous entrainer ! Sinon, tentez d'avoir 20/20 à toutes les dictées et progressez de manière significative et à votre rythme ! 
 
-Vous pourrez ainsi, grâce à ce concept unique de dictées vocales, joindre l'utile à l'agréable en vous amusant tout en apprenant. 
-
-De prochaines dictées seront mises à disposition pour enrichir la base de donnée existante. 
+Vous pourrez ainsi, grâce à ce concept unique de dictées vocales, joindre l'utile à l'agréable en vous amusant tout en apprenant.
 
 Bonne dictée à tous !
 
 
 - Application conçue et réalisée en France -
+  
+  <div style="height: 60px;"></div>
 
 
 <div style="width:100%; height: 60px; vertical-align:middle; text-align:center; float:none">
