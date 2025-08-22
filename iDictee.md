@@ -5,7 +5,7 @@ permalink: /idictee/
 tags: idictee
 ---
 
-<img src="/images/iDictee-Logo.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
+<img src="/images/logo-idictee.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
 
 ## iDictée + 
 
