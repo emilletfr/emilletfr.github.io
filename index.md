@@ -30,13 +30,12 @@ Question : Vous n'avez pas décelé de faute dans les deux phrases précédentes
 
 Vous pourrez ainsi, grâce à ce concept unique de dictées vocales, joindre l'utile à l'agréable en vous amusant tout en apprenant. 
 
-De prochaines dictées seront mises à disposition pour enrichir la base de donnée existante. 
-
 Bonne dictée à tous !
 
 
 - Application conçue et réalisée en France -
 
+ <div style="height: 60px;"></div>
 
 <div style="width:100%; height: 60px; vertical-align:middle; text-align:center; float:none">
                 <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto;">
