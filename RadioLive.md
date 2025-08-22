@@ -1,9 +1,9 @@
----
+[//]: # (---
 layout: page
 title: Radio Live!
 permalink: /radiolive/
 tags: idictee
----
+---)
 
 <img src="/images/RadioLive-Logo.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
 
