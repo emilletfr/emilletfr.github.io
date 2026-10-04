@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thanks For Your Message
+title: Merci pour votre message
 permalink: /thanks/
 ---
 {{ site.text.thanks }}

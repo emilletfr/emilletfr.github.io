@@ -1,0 +1,250 @@
+/* appseven.fr — feuille de style unique (refonte K19, v2 « pop ») */
+
+:root{
+  --bg:#FBF9F4;
+  --surface:#FFFFFF;
+  --ink:#1E2A38;
+  --body:#46505C;
+  --muted:#7A8494;
+  --teal:#0FA98F;
+  --teal-dark:#0B7A68;
+  --mint:#DCF5EE;
+  --mint-2:#F1FAF7;
+  --coral:#F27E90;
+  --coral-soft:#FDF0F3;
+  --sky:#5AA9E6;
+  --sky-soft:#EDF5FD;
+  --gold:#E4B54A;
+  --line:#ECE7DC;
+  --radius:20px;
+  --display:ui-rounded,"SF Pro Rounded","Hiragino Maru Gothic ProN",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+}
+
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--ink);
+  font:16.5px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+img{max-width:100%;height:auto}
+a{color:var(--teal-dark)}
+a:hover{color:var(--teal)}
+::selection{background:var(--mint)}
+:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+
+h1,h2{
+  font-family:var(--display);
+  font-weight:800;
+  line-height:1.08;
+  letter-spacing:-.02em;
+  color:var(--ink);
+}
+
+.wrap{max-width:1060px;margin-inline:auto;padding-inline:24px}
+
+.skip{position:absolute;left:-9999px}
+.skip:focus{
+  left:16px;top:12px;z-index:20;
+  background:var(--surface);padding:10px 14px;border-radius:10px;
+  box-shadow:0 4px 14px rgba(30,45,60,.15);
+}
+
+/* ---------- en-tête ---------- */
+.site-header{
+  position:sticky;top:0;z-index:10;
+  background:rgba(251,249,244,.86);
+  backdrop-filter:blur(10px);
+  -webkit-backdrop-filter:blur(10px);
+  border-bottom:1px solid rgba(236,231,220,.7);
+}
+.header-inner{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-block:14px}
+.brand{display:inline-flex;align-items:center}
+.brand img{height:32px;width:auto}
+.nav{display:flex;gap:8px}
+.nav a{
+  color:var(--ink);text-decoration:none;font-weight:700;font-size:15px;
+  padding:8px 14px;border-radius:999px;
+}
+.nav a:hover{background:var(--mint);color:var(--teal-dark)}
+
+/* ---------- héros ---------- */
+.hero-band{
+  background:
+    radial-gradient(1100px 480px at 88% -12%, rgba(15,169,143,.16), transparent 60%),
+    radial-gradient(860px 400px at -8% 22%, rgba(90,169,230,.14), transparent 55%),
+    linear-gradient(180deg,#F2FBF8 0%, #FBF9F4 100%);
+  overflow:hidden;
+}
+.hero{display:grid;gap:44px;padding-block:56px 48px}
+.hero > div:first-child{animation:rise .6s ease-out both}
+.hero-art{animation:rise .6s ease-out .12s both}
+.kicker{
+  margin:0 0 10px;text-transform:uppercase;letter-spacing:.14em;
+  font-size:12.5px;font-weight:800;color:var(--teal-dark);
+}
+.hero h1{margin:0 0 18px;font-size:clamp(38px,6vw,62px)}
+.lede{margin:0;font-size:19.5px;line-height:1.6;color:var(--body);max-width:54ch}
+.levels{display:flex;gap:10px;margin:24px 0 0;flex-wrap:wrap}
+.levels span{
+  padding:6px 16px;border-radius:999px;font-weight:800;font-size:13.5px;
+  letter-spacing:.01em;
+}
+.levels span:nth-child(1){background:var(--mint);color:var(--teal-dark)}
+.levels span:nth-child(2){background:var(--sky-soft);color:#1D5C93}
+.levels span:nth-child(3){background:var(--coral-soft);color:#B23A50}
+.badges{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin-top:26px}
+.badges a{display:inline-block;transition:transform .18s ease, box-shadow .18s ease}
+.badges a:hover{transform:translateY(-2px)}
+.badges img{height:54px;width:auto;display:block;border-radius:9px}
+.note{margin:20px 0 0;font-size:14.5px;color:var(--muted)}
+
+/* ---------- téléphones ---------- */
+.phone{
+  width:min(300px,78vw);
+  border-radius:42px;
+  border:10px solid #232B36;
+  background:#232B36;
+  box-shadow:0 30px 80px rgba(30,45,60,.24), 0 8px 22px rgba(30,45,60,.12);
+  overflow:hidden;
+}
+.phone img{display:block;width:100%}
+.hero-art{display:grid;place-items:center;justify-items:center}
+.hero-art .phone{
+  transform:rotate(-2deg);
+  animation:floaty 7s ease-in-out infinite;
+}
+
+/* ---------- bande + captures ---------- */
+.band{background:linear-gradient(180deg,var(--mint-2), var(--bg))}
+.section{padding-block:38px}
+.section-title{font-size:clamp(26px,3.8vw,36px);margin:0 0 22px}
+.shots{display:flex;gap:26px;overflow-x:auto;padding:6px 4px 30px}
+.shots .phone{width:min(250px,66vw);flex:0 0 auto;transition:transform .25s ease}
+.shots .phone:nth-child(odd){transform:rotate(1.2deg)}
+.shots .phone:nth-child(even){transform:rotate(-1.2deg)}
+.shots .phone:hover{transform:rotate(0) translateY(-4px)}
+
+/* ---------- cartes ---------- */
+.cards{display:grid;gap:18px}
+.card{
+  border-radius:var(--radius);
+  padding:24px 24px 22px;
+  border:1px solid rgba(255,255,255,.6);
+}
+.card:nth-child(1){background:var(--mint-2)}
+.card:nth-child(2){background:var(--coral-soft)}
+.card:nth-child(3){background:var(--sky-soft)}
+.card h3{margin:0 0 8px;font-size:18px;font-weight:800;font-family:var(--display);letter-spacing:-.01em}
+.card:nth-child(1) h3{color:var(--teal-dark)}
+.card:nth-child(2) h3{color:#B23A50}
+.card:nth-child(3) h3{color:#1D5C93}
+.card p{margin:0;color:var(--body);font-size:15px}
+
+/* ---------- citation ---------- */
+.quote{
+  max-width:860px;
+  margin:36px auto;
+  padding:26px 30px;
+  border-left:4px solid var(--coral);
+  background:var(--coral-soft);
+  border-radius:0 var(--radius) var(--radius) 0;
+  font-family:Georgia,"Iowan Old Style","Times New Roman",serif;
+  font-style:italic;
+  font-size:19.5px;
+  line-height:1.6;
+  color:var(--ink);
+}
+.quote p{margin:0}
+
+/* ---------- texte courant ---------- */
+.prose{max-width:768px;margin-inline:auto;padding-inline:24px}
+.prose h2{margin:1.6em 0 .5em;font-size:clamp(26px,3.6vw,32px)}
+.prose h2:first-child{margin-top:0}
+.prose p{color:var(--body)}
+.prose ul{padding-left:22px}
+.prose strong{color:var(--ink)}
+
+/* ---------- formulaire ---------- */
+.form{display:grid;gap:14px;max-width:540px}
+.form input,.form textarea{
+  width:100%;
+  padding:14px 16px;
+  border:1.5px solid var(--line);
+  border-radius:14px;
+  font:inherit;
+  color:var(--ink);
+  background:var(--surface);
+}
+.form input:focus,.form textarea:focus{border-color:var(--teal)}
+.button{
+  display:inline-block;
+  background:var(--teal);
+  color:#fff !important;
+  padding:14px 28px;
+  border:0;
+  border-radius:999px;
+  font:inherit;
+  font-weight:800;
+  cursor:pointer;
+  text-decoration:none;
+  width:max-content;
+  transition:background .18s ease, transform .18s ease;
+}
+.button:hover{background:var(--teal-dark);transform:translateY(-1px)}
+.button.ghost{
+  background:transparent;
+  color:var(--teal-dark) !important;
+  border:2px solid var(--teal);
+}
+
+/* ---------- pied de page ---------- */
+.site-footer{
+  margin-top:72px;
+  background:var(--ink);
+  color:#C6CFDA;
+  padding:34px 0 44px;
+  font-size:14.5px;
+}
+.footer-inner{display:flex;flex-direction:column;gap:14px}
+.footer-nav{display:flex;flex-wrap:wrap;gap:8px 22px}
+.footer-nav a{color:#E8EDF3;text-decoration:none;font-weight:600}
+.footer-nav a:hover{color:#8DE8D8;text-decoration:underline}
+.footer-line{margin:0;color:#93A0AE}
+
+/* ---------- 404 ---------- */
+.center-page{
+  min-height:52vh;
+  display:grid;
+  place-content:center;
+  justify-items:center;
+  text-align:center;
+  gap:16px;
+  padding:60px 24px;
+}
+.center-actions{display:flex;gap:14px;flex-wrap:wrap;justify-content:center}
+.muted{color:var(--muted)}
+
+/* ---------- animations ---------- */
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes floaty{
+  0%,100%{transform:translateY(0) rotate(-2deg)}
+  50%{transform:translateY(-9px) rotate(-2deg)}
+}
+@media (prefers-reduced-motion: reduce){
+  .hero > div, .hero-art, .hero-art .phone{animation:none}
+  .shots .phone{transition:none}
+}
+
+/* ---------- grands écrans ---------- */
+@media (min-width:880px){
+  .hero{grid-template-columns:1.05fr .95fr;align-items:center;padding-block:72px 60px}
+  .cards{grid-template-columns:repeat(3,1fr)}
+  .shots{justify-content:safe center}
+}
+@media (min-width:1140px){
+  .shots{overflow:visible}
+}

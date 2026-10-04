@@ -1,6 +1,12 @@
 source 'https://rubygems.org'
 
-# A simple Ruby Gem to bootstrap dependencies for setting up and
-# maintaining a local Jekyll environment in sync with GitHub Pages
-# https://github.com/github/pages-gem
+# Prévisualisation locale, alignée sur GitHub Pages.
+# (GitHub Pages IGNORE ce fichier : il utilise son propre environnement.)
 gem 'github-pages'
+
+# Ruby >= 3.4 ne fournit plus ces gems « par défaut » dont Jekyll 3.9 a besoin.
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
+gem 'logger'
+gem 'webrick' # pour « bundle exec jekyll serve »

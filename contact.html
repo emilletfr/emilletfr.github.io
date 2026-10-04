@@ -5,26 +5,15 @@ permalink: /contact/
 tags: contact
 ---
 
-<div class="py2">
-  {% if site.ajaxify_contact_form %}
-    <form class="form-stacked">
-      <input type="text" name="email" class="field-light" placeholder="Votre email">
-      <textarea type="text" name="content" class="field-light" rows="5" placeholder="Votre message" style="resize: vertical"></textarea>
-      <input type="text" name="_gotcha" style="display:none" />
-      <button type='submit' class="button button-blue button-big mobile-block">Envoyer</button>
-    </form>
-  {% else %}
-    <form action="https://formspree.io/f/mpzewgzq" method="POST" class="form-stacked">
-      <input type="text" name="email" class="field-light" placeholder="Votre email">
-      <textarea type="text" name="content" class="field-light" rows="5" placeholder="Votre message" style="resize: vertical"></textarea>
-      <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
-      <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
-      <input type="text" name="_gotcha" style="display:none" />
-      <input type="submit" class="button button-blue button-big mobile-block" value="Envoyer">
-    </form>
-  {% endif %}
-</div>
+<h2>Contact</h2>
 
-{% if site.ajaxify_contact_form %}
-  {% include ajaxify_content_form.html %}
-{% endif %}
+<p>Une question, une suggestion, un souci ? Écrivez-moi, je réponds dès que possible.</p>
+
+<form action="https://formspree.io/f/mpzewgzq" method="POST" class="form">
+  <input type="email" name="email" placeholder="Votre adresse e-mail" required>
+  <textarea name="content" rows="6" placeholder="Votre message" required></textarea>
+  <input type="hidden" name="_next" value="{{ site.url }}/thanks/">
+  <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}">
+  <input type="text" name="_gotcha" style="display:none">
+  <button type="submit" class="button">Envoyer</button>
+</form>

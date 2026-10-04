@@ -1,69 +1,68 @@
 ---
 layout: page
-title: Privacy Policy iVocabulaire
+title: Politique de confidentialité iVocabulaire
 permalink: /privacyPolicy-android-iVocabulaireFree/
 tags: privacyPolicy
 ---
+## Politique de confidentialité pour iVocabulaire
 
-## Privacy Policy for iVocabulaire 
+Eric Millet a créé l'application iVocabulaire comme application gratuite. Ce SERVICE est fourni par Eric Millet à titre gratuit et est destiné à être utilisé en l'état.
 
-Eric Millet built the iVocabulaire app as a Free app. This SERVICE is provided by Eric Millet at no cost and is intended for use as is.
+Cette page sert à informer les visiteurs de mes règles en matière de collecte, d'utilisation et de divulgation des informations personnelles, si quelqu'un décide d'utiliser mon service.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation des informations conformément à cette politique. Les informations personnelles que je collecte servent à fournir et à améliorer le service. Je ne communiquerai ni n'utiliserai vos informations, sauf dans les cas décrits dans cette politique de confidentialité.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos conditions générales, accessibles dans iVocabulaire, sauf définition contraire dans la présente politique.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at iVocabulaire unless otherwise defined in this Privacy Policy.
+**Collecte et utilisation des informations**
 
-**Information Collection and Use**
+Pour une meilleure expérience, il se peut que je vous demande, lors de l'utilisation de notre service, de fournir certaines informations personnelles. Les informations demandées restent stockées sur votre appareil et ne sont en aucun cas collectées par moi.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+L'application utilise toutefois des services tiers susceptibles de collecter des informations permettant de vous identifier.
 
-The app does use third party services that may collect information used to identify you.
+Lien vers la politique de confidentialité des services tiers utilisés par l'application
 
-Link to privacy policy of third party service providers used by the app
+*   [Services Google Play](https://www.google.com/policies/privacy/)
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+**Données de journal (Log Data)**
 
-**Log Data**
-
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Je souhaite vous informer que, à chaque utilisation de mon service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone : les « données de journal ». Celles-ci peuvent comprendre votre adresse de protocole Internet (« adresse IP »), le nom de l'appareil, la version du système d'exploitation, la configuration de l'application pendant l'utilisation de mon service, la date et l'heure de votre utilisation du service, ainsi que d'autres statistiques.
 
 **Cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Les cookies sont des fichiers contenant une petite quantité de données, couramment utilisés comme identifiants uniques anonymes. Ils sont envoyés à votre navigateur par les sites web que vous consultez et stockés dans la mémoire interne de votre appareil.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Ce service n'utilise pas ces « cookies » de manière explicite. L'application peut toutefois utiliser du code et des bibliothèques tiers qui emploient des « cookies » pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et d'être informé lorsqu'un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, il se peut que vous ne puissiez pas utiliser certaines parties de ce service.
 
-**Service Providers**
+**Prestataires de services**
 
-I may employ third-party companies and individuals due to the following reasons:
+Je peux faire appel à des entreprises et à des personnes tierces pour les raisons suivantes :
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   pour faciliter notre service ;
+*   pour fournir le service en notre nom ;
+*   pour exécuter des services liés au service ; ou
+*   pour nous aider à analyser l'utilisation de notre service.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Je souhaite informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison en est l'exécution des tâches qui leur sont confiées en notre nom. Ils sont toutefois tenus de ne pas divulguer ces informations ni de les utiliser à d'autres fins.
 
-**Security**
+**Sécurité**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Je tiens à votre confiance lorsque vous nous confiez vos informations personnelles ; c'est pourquoi nous nous efforçons de les protéger par des moyens commercialement raisonnables. Rappelez-vous toutefois qu'aucune méthode de transmission sur Internet ni de stockage électronique n'est sûre et fiable à 100 %, et je ne peux garantir une sécurité absolue.
 
-**Links to Other Sites**
+**Liens vers d'autres sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez redirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Je vous conseille donc vivement de consulter la politique de confidentialité de ces sites. Je n'ai aucun contrôle sur le contenu, les politiques de confidentialité ou les pratiques des sites ou services tiers et n'assume aucune responsabilité à leur égard.
 
-**Children’s Privacy**
+**Confidentialité des enfants**
 
-These Services do not address anyone under the age of 13\. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Ces services ne s'adressent pas aux personnes de moins de 13 ans. Je ne collecte pas sciemment d'informations personnelles auprès d'enfants de moins de 13 ans. Si je découvre qu'un enfant de moins de 13 ans m'a fourni des informations personnelles, je les supprime immédiatement de nos serveurs. Si vous êtes parent ou tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, contactez-moi afin que je puisse prendre les mesures nécessaires.
 
-**Changes to This Privacy Policy**
+**Modifications de cette politique de confidentialité**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Je peux mettre à jour notre politique de confidentialité de temps à autre. Vous êtes donc invité à consulter cette page régulièrement pour prendre connaissance des changements. Je vous informerai des changements en publiant la nouvelle politique de confidentialité sur cette page. Ces changements prennent effet immédiatement après leur publication sur cette page.
 
-**Contact Us**
+**Nous contacter**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+Si vous avez des questions ou des suggestions au sujet de ma politique de confidentialité, n'hésitez pas à me contacter.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+Cette page de politique de confidentialité a été créée sur [privacypolicytemplate.net](https://privacypolicytemplate.net) et modifiée/générée par [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)

@@ -1,18 +1,11 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ site.url }}" class="site-title">
-        <img src="/images/AppSeven-Logo.png" alt="AppSeven" title="AppSeven" />
-       <!-- {{ site.title }} -->
-      
-      </a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-      <div class="clearfix"></div>
-      {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
-    </div>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/" aria-label="AppSeven — accueil">
+      <img src="/images/AppSeven-Logo.png" alt="AppSeven" height="34">
+    </a>
+    <nav class="nav">
+      <a href="/idictee/">iDictée</a>
+      <a href="/contact/">Contact</a>
+    </nav>
   </div>
 </header>
