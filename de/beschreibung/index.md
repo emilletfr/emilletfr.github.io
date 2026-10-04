@@ -2,10 +2,11 @@
 layout: page
 lang: de
 title: "iDiktat — die komplette Beschreibung"
+meta_description: "Machen Sie Rechtschreibung zu einer festen Gewohnheit. Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler."
 permalink: /de/beschreibung/
 ---
 
-<h2>iDiktat</h2>
+<h1>iDiktat</h1>
 
 <p class="lede">Machen Sie Rechtschreibung zu einer festen Gewohnheit. Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat ist jeden Tag gratis, und das erste Diktat jeder Stufe bleibt für immer kostenlos.</p>
 

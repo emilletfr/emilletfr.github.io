@@ -1,10 +1,11 @@
 ---
 layout: page
 title: "iDictée — le descriptif complet"
+meta_description: "Faites de l’orthographe un rendez-vous régulier. Avec iDictée, écoutez, écrivez et comprenez vos erreurs."
 permalink: /idictee/
 ---
 
-<h2>iDictée</h2>
+<h1>iDictée</h1>
 
 <p class="lede">Faites de l’orthographe un rendez-vous régulier. Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour est offerte chaque jour, et la première dictée de chaque niveau est gratuite pour toujours.</p>
 

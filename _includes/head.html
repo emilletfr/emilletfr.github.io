@@ -12,8 +12,37 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:description" content="{{ page.meta_description | default: site.description | escape }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  {% assign og_img = '/images/og-fr.jpg' %}{% assign og_alt = 'iDictée — dictées vocales' %}
+  {% if page.lang == 'de' %}{% assign og_img = '/images/og-de.jpg' %}{% assign og_alt = 'iDiktat – Diktate üben' %}{% endif %}
+  <meta property="og:image" content="{{ site.url }}{{ og_img }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ og_alt }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ page.meta_description | default: site.description | escape }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ og_img }}">
+  <meta name="theme-color" content="#FBF9F4">
   {% if page.url == '/' %}<link rel="alternate" hreflang="de" href="{{ site.url }}/de/">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">{% endif %}
   {% if page.url == '/de/' %}<link rel="alternate" hreflang="fr" href="{{ site.url }}/">
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">{% endif %}
+  {% if page.url == '/' or page.url == '/de/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "{% if page.url == '/de/' %}iDiktat{% else %}iDictée{% endif %}",
+    "operatingSystem": "iOS, Android",
+    "applicationCategory": "EducationApplication",
+    "inLanguage": "{% if page.url == '/de/' %}de{% else %}fr{% endif %}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "installUrl": [
+      "https://apps.apple.com/app/id508373232",
+      "https://play.google.com/store/apps/details?id=net.emilletfr.idictee.lite"
+    ],
+    "publisher": { "@type": "Organization", "name": "AppSeven", "url": "{{ site.url }}" }
+  }
+  </script>
+  {% endif %}
 </head>
