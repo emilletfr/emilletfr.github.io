@@ -4,18 +4,20 @@
     {% assign nav_app_label = 'iDictée' %}
     {% assign nav_app_url = '/idictee/' %}
     {% assign nav_contact_label = 'Contact' %}
+    {% assign nav_contact_url = '/contact/' %}
     {% if page.lang == 'de' %}
       {% assign brand_url = '/de/' %}
       {% assign nav_app_label = 'iDiktat' %}
       {% assign nav_app_url = '/de/beschreibung/' %}
       {% assign nav_contact_label = 'Kontakt' %}
+      {% assign nav_contact_url = '/de/kontakt/' %}
     {% endif %}
     <a class="brand" href="{{ brand_url }}" aria-label="AppSeven — accueil">
       <img src="/images/AppSeven-Logo.png" alt="AppSeven" height="34">
     </a>
     <nav class="nav">
       <a href="{{ nav_app_url }}">{{ nav_app_label }}</a>
-      <a href="/contact/">{{ nav_contact_label }}</a>
+      <a href="{{ nav_contact_url }}">{{ nav_contact_label }}</a>
     </nav>
   </div>
 </header>
