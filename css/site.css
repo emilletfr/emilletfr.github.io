@@ -88,14 +88,16 @@ h1,h2{
 }
 .hero h1{margin:0 0 18px;font-size:clamp(38px,6vw,62px)}
 .lede{margin:0;font-size:19.5px;line-height:1.6;color:var(--body);max-width:54ch}
-.levels{display:flex;gap:10px;margin:24px 0 0;flex-wrap:wrap}
-.levels span{
-  padding:6px 16px;border-radius:999px;font-weight:800;font-size:13.5px;
-  letter-spacing:.01em;
+.audience{
+  max-width:860px;margin:36px auto 0;padding:22px 28px;
+  background:var(--mint-2);border-radius:var(--radius);
+  font-size:16.5px;color:var(--body);text-align:center;
 }
-.levels span:nth-child(1){background:var(--mint);color:var(--teal-dark)}
-.levels span:nth-child(2){background:var(--sky-soft);color:#1D5C93}
-.levels span:nth-child(3){background:var(--coral-soft);color:#B23A50}
+.audience strong{
+  display:block;margin-bottom:6px;
+  font-family:var(--display);font-weight:800;color:var(--teal-dark);
+  letter-spacing:.08em;
+}
 .badges{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin-top:26px}
 .badges a{display:inline-block;transition:transform .18s ease, box-shadow .18s ease}
 .badges a:hover{transform:translateY(-2px)}

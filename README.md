@@ -17,6 +17,17 @@ Site statique (Jekyll) d'AppSeven, publié sur GitHub Pages — domaine
 - `images/` — logos et captures d'app (`images/shots/` : captures générées
   depuis le dépôt de l'app, `script/render_store_screenshots.py` côté app)
 
+## Textes de la vitrine — alignés sur les fiches stores
+
+Les textes de `index.md` proviennent **verbatim** des descriptions de fiches
+(dépôt app : `script/assets/ios/lite/store/metadata/<lang>/description.txt`,
+locale `fr-FR`). Une seule rédaction par langue sert ainsi au store **et** au
+site. Pour ajouter une langue : reprendre les mêmes sections dans la
+description de cette langue et créer la variante de page (ex. `/de/`).
+Toute modification d'une description store se répercute ici — mêmes phrases,
+au caractère près. Les libellés propres au site (« L'app en images »,
+« Pourquoi iDictée ? », navigation) sont les seules chaînes à traduire à part.
+
 ## ⚠️ URL à ne jamais casser
 
 Les fiches App Store / Google Play pointent vers
