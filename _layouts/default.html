@@ -4,6 +4,7 @@
 <body>
   <a class="skip" href="#contenu">Aller au contenu</a>
   {% include header.html %}
+  {% if page.url == '/' %}{% include lang_banner.html %}{% endif %}
   <main id="contenu">
     {{ content }}
   </main>

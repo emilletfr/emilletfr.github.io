@@ -1,0 +1,21 @@
+<div id="lang-hint" class="lang-hint" hidden>
+  <span>Diese Seite gibt es auch auf Deutsch.</span>
+  <a href="/de/" hreflang="de">Zur deutschen Version</a>
+  <button type="button" class="lang-hint-close" aria-label="Schließen">&times;</button>
+</div>
+<script>
+(function () {
+  try {
+    var langs = navigator.languages || [navigator.language || ''];
+    var de = langs.some(function (l) { return String(l).toLowerCase().indexOf('de') === 0; });
+    if (de && localStorage.getItem('langHintDismissed') !== '1') {
+      var el = document.getElementById('lang-hint');
+      el.hidden = false;
+      el.querySelector('.lang-hint-close').addEventListener('click', function () {
+        try { localStorage.setItem('langHintDismissed', '1'); } catch (e) {}
+        el.hidden = true;
+      });
+    }
+  } catch (e) {}
+})();
+</script>
