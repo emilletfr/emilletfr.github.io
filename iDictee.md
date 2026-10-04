@@ -1,60 +1,51 @@
 ---
 layout: page
-title: iDictée
+title: "iDictée — le descriptif complet"
 permalink: /idictee/
-tags: idictee
 ---
 
-<img src="/images/logo-idictee.png" alt="iDictée" title="iDictée" style="width: 60px; height: 60px; float: left; margin-right: 20px;" />
+<h2>iDictée</h2>
 
-## iDictée 
+<p class="lede">Faites de l’orthographe un rendez-vous régulier. Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour est offerte chaque jour, et la première dictée de chaque niveau est gratuite pour toujours.</p>
 
-"Mince... Comment ça s'écrit déjà ?" 
+<h3>LA DICTÉE DU JOUR : UNE BONNE HABITUDE À PRENDRE</h3>
+<p>Un texte sélectionné chaque jour pour vous donner envie de revenir écrire. Depuis le menu principal, touchez « Faire la dictée du jour », écoutez les séquences à votre rythme et passez à la correction. Une connexion Internet est nécessaire pour la télécharger.</p>
 
-Qui n'a pas eu ce genre d'hésitation au moment de rédiger : 
+<h3>UN RAPPEL POUR NE PAS LA MANQUER</h3>
+<p>Activez le rappel depuis le menu : votre appareil vous prévient quand la dictée du jour vous attend. Reportez-le d’un geste si ce n’est pas le moment, ou désactivez-le quand vous voulez. Le rappel vit sur votre appareil, sans inscription.</p>
 
-- Un mail professionnel, privé 
-- Une dissertation, une rédaction
-- Un SMS 
-- Une carte de vœux, de remerciement, d'anniversaire... 
-- Une lettre de motivation et son CV 
+<h3>ÉCOUTEZ, ÉCRIVEZ, PROGRESSEZ</h3>
+<p>Retrouvez le plaisir de la dictée sur iPhone et iPad. Écoutez le texte, saisissez ce que vous entendez directement dans l’application, puis relisez votre copie. Mettez en pratique l’orthographe, la grammaire, les accords et la conjugaison à travers des textes variés et des extraits littéraires.</p>
 
-Bien qu'il soit communément admis, notamment dans les médias, que l'orthographe se perd de plus en plus, il n'est pourtant pas difficile de garder un "bon" niveau de français : pratiquer régulièrement pour mémoriser. 
-C'est sur ce constat que nous vous proposons d'utiliser votre iPhone comme outil de révisions. 
+<h3>PRENEZ LE TEMPS D’ÉCRIRE</h3>
+<p>Un passage vous échappe ? Réécoutez-le autant que nécessaire ou revenez au passage précédent. Les séquences lentes vous laissent le temps d’écrire. Vous choisissez quand passer à la suite, sans avoir besoin de quelqu’un pour vous dicter le texte.</p>
 
-Comment faire? 
+<h3>REPÉREZ VOS ERREURS, COMPRENEZ LES RÈGLES</h3>
+<p>La correction visuelle compare votre copie avec le texte attendu. Touchez une erreur : vous recevez une explication et une astuce pour mieux la comprendre. Chaque dictée offre une explication ; le déblocage du catalogue en donne trois par dictée, et l’abonnement iDictée Illimité les rend illimitées. Ces explications utilisent une connexion Internet et leur disponibilité peut être limitée.</p>
 
-En 10mn (grand maximum), vous pourrez faire une, ou plus, des dizaines de dictées vocales. Celles-ci sont réparties en trois niveaux : simple, moyen, difficile. 
+<h3>REVISEZ VOS FAUTES, UNE À UNE</h3>
+<p>Le carnet de révisions est inclus avec l’achat du catalogue complet ou l’abonnement iDictée Illimité : il réunit vos fautes sur votre appareil, avec leur explication, et les transforme en exercices. En séance, la phrase d’origine est dictée : écoutez-la, re-tapez le mot juste, et le mot acquis sort du carnet.</p>
 
-À la fin de chaque dictée une note vous sera attribuée pour vous permettre de vous évaluer. Enfin, une correction personnalisée vous sera également proposer. Il est important de comprendre ou sont vos fautes pour pouvoir progressé. 
+<h3>SUIVEZ VOTRE PROGRESSION</h3>
+<p>Rien de plus motivant que de voir le chemin parcouru. L’écran « Ma progression » rassemble vos vrais chiffres : votre série de jours d’activité, vos dictées corrigées, votre score moyen, vos derniers scores et l’état de votre carnet. Votre niveau, du Débutant à l’Expert, évolue à chaque dictée corrigée. Avec l’achat du catalogue complet ou l’abonnement iDictée Illimité, partagez un rapport de progression : idéal pour suivre les progrès d’un enfant, ou simplement garder le cap.</p>
 
-Question : Vous n'avez pas décelé de faute dans les deux phrases précédentes ? Il est alors temps de vous entrainer ! Sinon, tentez d'avoir 20/20 à toutes les dictées et progressez de manière significative et à votre rythme ! 
+<h3>UN CATALOGUE POUR VARIER LES ENTRAÎNEMENTS</h3>
+<p>Choisissez parmi 3 niveaux de difficulté, consultez vos résultats et refaites les dictées du catalogue pour tenter d’améliorer votre score. Un entraînement pour les études, une remise à niveau ou simplement le plaisir d’écrire juste.</p>
 
-Vous pourrez ainsi, grâce à ce concept unique de dictées vocales, joindre l'utile à l'agréable en vous amusant tout en apprenant.
+<h3>POUR QUI ?</h3>
+<p>Pour les élèves — du CE1 à la 3e — comme pour les adultes qui veulent se remettre à niveau.</p>
 
-Bonne dictée à tous !
+<h3>POUR COMMENCER</h3>
+<ul>
+<li>Une nouvelle dictée offerte chaque jour.</li>
+<li>La première dictée de chaque niveau, gratuite pour toujours.</li>
+<li>Une explication de faute offerte par dictée.</li>
+<li>Un rappel quotidien, si vous le souhaitez.</li>
+<li>Débloquez le catalogue complet par un achat intégré unique.</li>
+<li>Le carnet de révisions est inclus avec l’achat du catalogue ou iDictée Illimité : vos fautes réunies, à re-taper une à une.</li>
+<li>Suivez votre progression : série de jours, scores, carnet, niveau — le rapport se partage avec l’achat ou l’abonnement.</li>
+<li>Passez à iDictée Illimité : tout le catalogue et les explications illimitées.</li>
+<li>Déjà acheté la version complète ? Vos explications illimitées restent acquises.</li>
+</ul>
 
-
-- Application conçue et réalisée en France -
-  
-  <div style="height: 60px;"></div>
-
-
-<div style="width:100%; height: 60px; vertical-align:middle; text-align:center; float:none">
-                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto;">
-                    <tbody>
-                        <tr>
-                            <td style="padding: 0 5px; vertical-align: middle;">
-                                <a href="https://apps.apple.com/fr/app/idict%C3%A9e/id508373232" target="_blank">
-                                    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Télécharger sur l'App Store" width="135" style="display: block; width: 135px; height: auto; border-radius: 5px;">
-                                </a>
-                            </td>
-                            <td style="padding: 0 5px; vertical-align: middle;">
-                                <a href="https://play.google.com/store/apps/details?id=net.emilletfr.idictee.lite&hl=fr&pli=1" target="_blank">
-                                    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play" width="135" style="display: block; width: 135px; height: auto; border-radius: 5px;">
-                                </a>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-</div>
+<blockquote class="quote"><p>Votre prochain rendez-vous avec les mots commence ici.</p></blockquote>

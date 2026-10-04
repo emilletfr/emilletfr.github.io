@@ -166,8 +166,14 @@ h1,h2{
 .prose{max-width:768px;margin-inline:auto;padding-inline:24px}
 .prose h2{margin:1.6em 0 .5em;font-size:clamp(26px,3.6vw,32px)}
 .prose h2:first-child{margin-top:0}
+.prose h3{
+  margin:1.8em 0 .4em;
+  font-family:var(--display);font-weight:800;font-size:16.5px;
+  letter-spacing:.05em;color:var(--teal-dark);
+}
 .prose p{color:var(--body)}
 .prose ul{padding-left:22px}
+.prose li{margin:.35em 0}
 .prose strong{color:var(--ink)}
 
 /* ---------- formulaire ---------- */

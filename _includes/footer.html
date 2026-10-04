@@ -1,11 +1,23 @@
 <footer class="site-footer">
   <div class="wrap footer-inner">
+    {% if page.lang == 'de' %}
     <nav class="footer-nav">
-      <a href="/idictee/">iDictée</a>
+      <a href="/de/beschreibung/">iDiktat</a>
+      <a href="/de/">Startseite</a>
+      <a href="/contact/">Kontakt</a>
+      <a href="/privacyPolicy-iDiktat/">Datenschutzerklärung</a>
+      <a href="/">Français</a>
+    </nav>
+    <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · In Frankreich entwickelt.</p>
+    {% else %}
+    <nav class="footer-nav">
+      <a href="/idictee/">iDictée — descriptif complet</a>
       <a href="/contact/">Contact</a>
       <a href="/privacyPolicy-iDicteeFree/">Confidentialité iDictée</a>
       <a href="/privacyPolicy-iVocabulaireFree/">Confidentialité iVocabulaire</a>
+      <a href="/de/">Deutsch</a>
     </nav>
     <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Applications conçues et réalisées en France.</p>
+    {% endif %}
   </div>
 </footer>
