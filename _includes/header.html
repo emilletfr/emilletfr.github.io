@@ -30,12 +30,25 @@
       {% assign nav_contact_label = 'Kontakt' %}
       {% assign nav_contact_url = '/pl/kontakt/' %}
     {% endif %}
+    {% assign cur_lang = page.lang | default: 'fr' %}
     <a class="brand" href="{{ brand_url }}" aria-label="AppSeven — accueil">
       <img src="/images/AppSeven-Logo.png" alt="AppSeven" height="34">
     </a>
-    <nav class="nav">
-      <a href="{{ nav_app_url }}">{{ nav_app_label }}</a>
-      <a href="{{ nav_contact_url }}">{{ nav_contact_label }}</a>
-    </nav>
+    <div class="header-right">
+      <nav class="nav">
+        <a href="{{ nav_app_url }}">{{ nav_app_label }}</a>
+        <a href="{{ nav_contact_url }}">{{ nav_contact_label }}</a>
+      </nav>
+      <details class="lang-picker">
+        <summary>{{ cur_lang | upcase }}</summary>
+        <nav class="lang-menu" aria-label="Langues">
+          <a href="/" hreflang="fr"{% if cur_lang == 'fr' %} class="current"{% endif %}>Français</a>
+          <a href="/de/" hreflang="de"{% if cur_lang == 'de' %} class="current"{% endif %}>Deutsch</a>
+          <a href="/es/" hreflang="es"{% if cur_lang == 'es' %} class="current"{% endif %}>Español</a>
+          <a href="/it/" hreflang="it"{% if cur_lang == 'it' %} class="current"{% endif %}>Italiano</a>
+          <a href="/pl/" hreflang="pl"{% if cur_lang == 'pl' %} class="current"{% endif %}>Polski</a>
+        </nav>
+      </details>
+    </div>
   </div>
 </header>
