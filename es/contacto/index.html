@@ -1,0 +1,19 @@
+---
+layout: page
+lang: es
+title: "Contacto"
+permalink: /es/contacto/
+---
+
+<h2>Contacto</h2>
+
+<p>¿Tienes una pregunta, una sugerencia o un problema? Escríbeme; responderé lo antes posible.</p>
+
+<form action="https://formspree.io/f/mpzewgzq" method="POST" class="form">
+  <input type="email" name="email" placeholder="Tu dirección de correo electrónico" required>
+  <textarea name="content" rows="6" placeholder="Tu mensaje" required></textarea>
+  <input type="hidden" name="_next" value="{{ site.url }}/es/gracias/">
+  <input type="hidden" name="_subject" value="Mensaje desde appseven.fr">
+  <input type="text" name="_gotcha" style="display:none">
+  <button type="submit" class="button">Enviar</button>
+</form>

@@ -11,6 +11,24 @@
       {% assign nav_app_url = '/de/beschreibung/' %}
       {% assign nav_contact_label = 'Kontakt' %}
       {% assign nav_contact_url = '/de/kontakt/' %}
+    {% elsif page.lang == 'es' %}
+      {% assign brand_url = '/es/' %}
+      {% assign nav_app_label = 'iDictado' %}
+      {% assign nav_app_url = '/es/descripcion/' %}
+      {% assign nav_contact_label = 'Contacto' %}
+      {% assign nav_contact_url = '/es/contacto/' %}
+    {% elsif page.lang == 'it' %}
+      {% assign brand_url = '/it/' %}
+      {% assign nav_app_label = 'iDettato' %}
+      {% assign nav_app_url = '/it/descrizione/' %}
+      {% assign nav_contact_label = 'Contatto' %}
+      {% assign nav_contact_url = '/it/contatto/' %}
+    {% elsif page.lang == 'pl' %}
+      {% assign brand_url = '/pl/' %}
+      {% assign nav_app_label = 'iDyktando' %}
+      {% assign nav_app_url = '/pl/opis/' %}
+      {% assign nav_contact_label = 'Kontakt' %}
+      {% assign nav_contact_url = '/pl/kontakt/' %}
     {% endif %}
     <a class="brand" href="{{ brand_url }}" aria-label="AppSeven — accueil">
       <img src="/images/AppSeven-Logo.png" alt="AppSeven" height="34">

@@ -6,16 +6,51 @@
       <a href="/de/">Startseite</a>
       <a href="/de/kontakt/">Kontakt</a>
       <a href="/privacyPolicy-iDiktat/">Datenschutzerklärung</a>
+      <a href="/cgu-iDiktat/">AGB</a>
       <a href="/">Français</a>
     </nav>
     <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · In Frankreich entwickelt.</p>
+    {% elsif page.lang == 'es' %}
+    <nav class="footer-nav">
+      <a href="/es/descripcion/">iDictado</a>
+      <a href="/es/">Inicio</a>
+      <a href="/es/contacto/">Contacto</a>
+      <a href="/privacyPolicy-iDictado/">Privacidad</a>
+      <a href="/cgu-iDictado/">Condiciones de uso</a>
+      <a href="/">Français</a>
+    </nav>
+    <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Desarrollado en Francia.</p>
+    {% elsif page.lang == 'it' %}
+    <nav class="footer-nav">
+      <a href="/it/descrizione/">iDettato</a>
+      <a href="/it/">Pagina iniziale</a>
+      <a href="/it/contatto/">Contatto</a>
+      <a href="/privacyPolicy-iDettato/">Informativa sulla privacy</a>
+      <a href="/cgu-iDettato/">Condizioni d'uso</a>
+      <a href="/">Français</a>
+    </nav>
+    <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Sviluppato in Francia.</p>
+    {% elsif page.lang == 'pl' %}
+    <nav class="footer-nav">
+      <a href="/pl/opis/">iDyktando</a>
+      <a href="/pl/">Strona główna</a>
+      <a href="/pl/kontakt/">Kontakt</a>
+      <a href="/privacyPolicy-iDyktando/">Polityka prywatności</a>
+      <a href="/cgu-iDyktando/">Warunki korzystania</a>
+      <a href="/">Français</a>
+    </nav>
+    <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Tworzone we Francji.</p>
     {% else %}
     <nav class="footer-nav">
       <a href="/idictee/">iDictée — descriptif complet</a>
       <a href="/contact/">Contact</a>
       <a href="/privacyPolicy-iDicteeFree/">Confidentialité iDictée</a>
       <a href="/privacyPolicy-iVocabulaireFree/">Confidentialité iVocabulaire</a>
+      <a href="/cgu-iDicteeFree/">CGU</a>
       <a href="/de/">Deutsch</a>
+      <a href="/es/">Español</a>
+      <a href="/it/">Italiano</a>
+      <a href="/pl/">Polski</a>
     </nav>
     <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Applications conçues et réalisées en France.</p>
     {% endif %}

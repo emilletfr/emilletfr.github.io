@@ -1,15 +1,30 @@
 <div id="lang-hint" class="lang-hint" hidden>
-  <span>Diese Seite gibt es auch auf Deutsch.</span>
-  <a href="/de/" hreflang="de">Zur deutschen Version</a>
+  <span id="lang-hint-text"></span>
+  <a id="lang-hint-link" href="/de/" hreflang="de"></a>
   <button type="button" class="lang-hint-close" aria-label="Schließen">&times;</button>
 </div>
 <script>
 (function () {
   try {
+    var versions = {
+      de: { url: '/de/', label: 'Zur deutschen Version', text: 'Diese Seite gibt es auch auf Deutsch.', close: 'Schließen' },
+      es: { url: '/es/', label: 'Ir a la versión en español', text: 'Esta página también está disponible en español.', close: 'Cerrar' },
+      it: { url: '/it/', label: 'Vai alla versione italiana', text: 'Questa pagina è disponibile anche in italiano.', close: 'Chiudi' },
+      pl: { url: '/pl/', label: 'Przejdź do wersji polskiej', text: 'Ta strona jest dostępna także po polsku.', close: 'Zamknij' }
+    };
     var langs = navigator.languages || [navigator.language || ''];
-    var de = langs.some(function (l) { return String(l).toLowerCase().indexOf('de') === 0; });
-    if (de && localStorage.getItem('langHintDismissed') !== '1') {
+    var found = null;
+    for (var i = 0; i < langs.length && !found; i++) {
+      var code = String(langs[i]).toLowerCase().slice(0, 2);
+      if (versions[code]) found = code;
+    }
+    if (found && localStorage.getItem('langHintDismissed') !== '1') {
+      var v = versions[found];
       var el = document.getElementById('lang-hint');
+      el.querySelector('#lang-hint-text').textContent = v.text;
+      var link = el.querySelector('#lang-hint-link');
+      link.href = v.url; link.hreflang = found; link.textContent = v.label;
+      el.querySelector('.lang-hint-close').setAttribute('aria-label', v.close);
       el.hidden = false;
       el.querySelector('.lang-hint-close').addEventListener('click', function () {
         try { localStorage.setItem('langHintDismissed', '1'); } catch (e) {}
