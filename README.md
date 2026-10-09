@@ -8,9 +8,13 @@ Site statique (Jekyll) d'AppSeven, publié sur GitHub Pages — domaine
 - `index.md` — accueil vitrine (iDictée)
 - `iDictee.md` — page iDictée (`/idictee/`)
 - `contact.html` — formulaire (Formspree)
+- `en/`, `pt/` — sections anglaise (iDictation) et portugaise (iDitado) :
+  accueil, descriptif (`/en/description/`, `/pt/descricao/`), contact et
+  remerciement dédiés
 - `privacyPolicy-*.md` — pages de confidentialité, une par app et par
   plateforme — en **français**, sauf `privacyPolicy-iDiktat.md` (allemand,
-  pour la fiche iDiktat)
+  pour la fiche iDiktat), `privacyPolicy-iDictation.md` (anglais) et
+  `privacyPolicy-iDitado.md` (portugais)
 - `404.md`, `thanks.md`
 - `css/site.css` — feuille de style unique
 - `_layouts/`, `_includes/` — gabarits Jekyll
@@ -49,4 +53,4 @@ git push                     # GitHub Pages reconstruit automatiquement
 ```
 
 Uniquement des plugins de la liste blanche GitHub Pages (ici : sitemap).
-Langue du site : français.
+Langues du site : français (racine), de, es, it, pl, en, pt.

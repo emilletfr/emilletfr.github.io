@@ -29,6 +29,18 @@
       {% assign nav_app_url = '/pl/opis/' %}
       {% assign nav_contact_label = 'Kontakt' %}
       {% assign nav_contact_url = '/pl/kontakt/' %}
+    {% elsif page.lang == 'en' %}
+      {% assign brand_url = '/en/' %}
+      {% assign nav_app_label = 'iDictation' %}
+      {% assign nav_app_url = '/en/description/' %}
+      {% assign nav_contact_label = 'Contact' %}
+      {% assign nav_contact_url = '/en/contact/' %}
+    {% elsif page.lang == 'pt' %}
+      {% assign brand_url = '/pt/' %}
+      {% assign nav_app_label = 'iDitado' %}
+      {% assign nav_app_url = '/pt/descricao/' %}
+      {% assign nav_contact_label = 'Contato' %}
+      {% assign nav_contact_url = '/pt/contato/' %}
     {% endif %}
     {% assign cur_lang = page.lang | default: 'fr' %}
     <a class="brand" href="{{ brand_url }}" aria-label="AppSeven — accueil">
@@ -47,6 +59,8 @@
           <a href="/es/" hreflang="es"{% if cur_lang == 'es' %} class="current"{% endif %}>Español</a>
           <a href="/it/" hreflang="it"{% if cur_lang == 'it' %} class="current"{% endif %}>Italiano</a>
           <a href="/pl/" hreflang="pl"{% if cur_lang == 'pl' %} class="current"{% endif %}>Polski</a>
+          <a href="/en/" hreflang="en"{% if cur_lang == 'en' %} class="current"{% endif %}>English</a>
+          <a href="/pt/" hreflang="pt"{% if cur_lang == 'pt' %} class="current"{% endif %}>Português</a>
         </nav>
       </details>
     </div>

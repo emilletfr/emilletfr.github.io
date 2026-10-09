@@ -40,6 +40,26 @@
       <a href="/">Français</a>
     </nav>
     <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Tworzone we Francji.</p>
+    {% elsif page.lang == 'en' %}
+    <nav class="footer-nav">
+      <a href="/en/description/">iDictation</a>
+      <a href="/en/">Home</a>
+      <a href="/en/contact/">Contact</a>
+      <a href="/privacyPolicy-iDictation/">Privacy</a>
+      <a href="/cgu-iDictation/">Terms of use</a>
+      <a href="/">Français</a>
+    </nav>
+    <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Developed in France.</p>
+    {% elsif page.lang == 'pt' %}
+    <nav class="footer-nav">
+      <a href="/pt/descricao/">iDitado</a>
+      <a href="/pt/">Início</a>
+      <a href="/pt/contato/">Contato</a>
+      <a href="/privacyPolicy-iDitado/">Privacidade</a>
+      <a href="/cgu-iDitado/">Termos de uso</a>
+      <a href="/">Français</a>
+    </nav>
+    <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Desenvolvido na França.</p>
     {% else %}
     <nav class="footer-nav">
       <a href="/idictee/">iDictée — descriptif complet</a>
@@ -51,6 +71,8 @@
       <a href="/es/">Español</a>
       <a href="/it/">Italiano</a>
       <a href="/pl/">Polski</a>
+      <a href="/en/">English</a>
+      <a href="/pt/">Português</a>
     </nav>
     <p class="footer-line">© {{ site.time | date: '%Y' }} AppSeven — Eric Millet · Applications conçues et réalisées en France.</p>
     {% endif %}
