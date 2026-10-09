@@ -22,8 +22,20 @@ permalink: /pt/
       </div>
       <p class="note">Uma explicação grátis por ditado.</p>
     </div>
-    <!-- Capturas portuguesas (images/shots/pt-*.jpg) a adicionar quando o
-         pipeline de renders store produzir a locale pt — pendente. -->
+    <div class="hero-art">
+      <div class="phone"><img src="/images/shots/pt-menu.jpg" alt="iDitado — o ditado do dia" width="660" height="1434"></div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap section">
+    <h2 class="section-title">O aplicativo em imagens</h2>
+    <div class="shots">
+      <div class="phone"><img src="/images/shots/pt-explication.jpg" alt="A explicação de um erro no iDitado" width="660" height="1434" loading="lazy"></div>
+      <div class="phone"><img src="/images/shots/pt-correction.jpg" alt="A correção visual no iDitado" width="660" height="1434" loading="lazy"></div>
+      <div class="phone"><img src="/images/shots/pt-progression.jpg" alt="O progresso no iDitado" width="660" height="1434" loading="lazy"></div>
+    </div>
   </div>
 </section>
 

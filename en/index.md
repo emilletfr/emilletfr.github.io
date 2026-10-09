@@ -22,8 +22,20 @@ permalink: /en/
       </div>
       <p class="note">One explanation per dictation, free.</p>
     </div>
-    <!-- Captures anglaises (images/shots/en-*.jpg) à ajouter quand le pipeline
-         de rendus store produira la locale en — en attente. -->
+    <div class="hero-art">
+      <div class="phone"><img src="/images/shots/en-menu.jpg" alt="iDictation — the daily dictation" width="660" height="1434"></div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap section">
+    <h2 class="section-title">The app in pictures</h2>
+    <div class="shots">
+      <div class="phone"><img src="/images/shots/en-explication.jpg" alt="An explanation of a mistake in iDictation" width="660" height="1434" loading="lazy"></div>
+      <div class="phone"><img src="/images/shots/en-correction.jpg" alt="The visual correction in iDictation" width="660" height="1434" loading="lazy"></div>
+      <div class="phone"><img src="/images/shots/en-progression.jpg" alt="Your progress in iDictation" width="660" height="1434" loading="lazy"></div>
+    </div>
   </div>
 </section>
 
