@@ -43,16 +43,16 @@ permalink: /de/
   <h2 class="section-title">Warum iDiktat?</h2>
   <div class="cards">
     <div class="card">
-      <h3>DAS TAGESDIKTAT: EINE GUTE GEWOHNHEIT</h3>
-      <p>Jeden Tag ein ausgewählter Text, der Lust macht, wiederzuschreiben. Tippen Sie im Hauptmenü auf „Das Tagesdiktat schreiben“, hören Sie die Abschnitte in Ihrem Tempo und wechseln Sie zur Korrektur. Zum Herunterladen ist eine Internetverbindung nötig.</p>
+      <h3>SIEBEN SPRACHEN FÜR DIKTATE, EINE APP</h3>
+      <p>Die App bleibt auf Deutsch — die Sprache der Diktate bestimmen Sie. Tippen Sie oben im Menü auf die Flagge, um Deutsch, Englisch, Französisch, Spanisch, Italienisch, Polnisch oder Portugiesisch zu üben: Das Tagesdiktat, die Stufen, der Katalog und die Korrektur folgen der gewählten Sprache.</p>
     </div>
     <div class="card">
       <h3>FEHLER FINDEN, REGELN VERSTEHEN</h3>
-      <p>Die visuelle Korrektur vergleicht Ihren Text mit der Vorlage. Tippen Sie einen Fehler an: Sie erhalten eine Erklärung und einen Tipp, um ihn besser zu verstehen. Jedes Diktat bietet eine Erklärung; mit dem Katalog-Kauf sind es drei pro Diktat, und iDiktat Unbegrenzt macht sie unbegrenzt. Diese Erklärungen benötigen eine Internetverbindung, ihre Verfügbarkeit kann begrenzt sein.</p>
+      <p>Die Korrektur vergleicht Ihren Text mit der Vorlage. Tippen Sie einen Fehler an: Sie erhalten eine Erklärung und einen Tipp. Jedes Diktat bietet eine Erklärung; mit dem Katalog-Kauf drei pro Diktat, mit iDiktat Unbegrenzt unbegrenzt. Eine Internetverbindung ist nötig; die Verfügbarkeit kann begrenzt sein.</p>
     </div>
     <div class="card">
       <h3>VERFOLGEN SIE IHREN FORTSCHRITT</h3>
-      <p>Nichts motiviert mehr als der Blick auf den schon zurückgelegten Weg. Der Bildschirm „Mein Fortschritt“ versammelt Ihre echten Zahlen: Ihre Serie aktiver Tage, Ihre korrigierten Diktate, Ihren Durchschnitt, Ihre letzten Ergebnisse und den Stand Ihres Hefts. Ihre Stufe — von Anfänger bis Experte — wächst mit jedem korrigierten Diktat. Mit dem Kauf des Katalogs oder dem Abo iDiktat Unbegrenzt teilen Sie einen Fortschrittsbericht: ideal, um die Fortschritte eines Kindes zu verfolgen — oder einfach dranzubleiben.</p>
+      <p>Der Bildschirm „Mein Fortschritt“ versammelt Ihre echten Zahlen: Serie aktiver Tage, korrigierte Diktate, Durchschnitt und Stand des Hefts. Ihre Liga — von Anfänger bis Experte — wächst mit jedem korrigierten Diktat. Mit dem Kauf des Katalogs oder dem Abo iDiktat Unbegrenzt teilen Sie einen Fortschrittsbericht: ideal, um die Fortschritte eines Kindes zu verfolgen.</p>
     </div>
   </div>
 </section>

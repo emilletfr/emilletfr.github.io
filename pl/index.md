@@ -43,16 +43,16 @@ permalink: /pl/
   <h2 class="section-title">Dlaczego iDyktando?</h2>
   <div class="cards">
     <div class="card">
-      <h3>DYKTANDO DNIA: DOBRY NAWYK</h3>
-      <p>Każdego dnia wybrany tekst, który zachęca, by wrócić do pisania. W menu głównym dotknij „Napisz dyktando dnia”, słuchaj fragmentów we własnym tempie i przejdź do poprawy. Do pobrania potrzebne jest połączenie z internetem.</p>
+      <h3>SIEDEM JĘZYKÓW DYKTAND, JEDNA APLIKACJA</h3>
+      <p>Aplikacja jest po polsku — języki dyktand wybierasz sam. Dotknij flagi u góry menu, aby ćwiczyć polski, angielski, francuski, niemiecki, hiszpański, włoski lub portugalski: dyktando dnia, poziomy, katalog i poprawa idą za wybranym językiem. Idealne, by podtrzymać język poznany w szkole.</p>
     </div>
     <div class="card">
       <h3>ZNAJDŹ BŁĘDY I ZROZUMIEJ ZASADY</h3>
-      <p>Poprawa wizualna porównuje twój tekst ze wzorem. Dotknij błędu: otrzymasz wyjaśnienie i wskazówkę, żeby lepiej go zrozumieć. Każde dyktando oferuje jedno wyjaśnienie; z zakupem katalogu są trzy na dyktando, a iDyktando Bez limitu czyni je bez ograniczeń. Wyjaśnienia wymagają połączenia z internetem, a ich dostępność może być ograniczona.</p>
+      <p>Poprawa porównuje twój tekst ze wzorem. Dotknij błędu: otrzymasz wyjaśnienie i wskazówkę. Każde dyktando oferuje jedno wyjaśnienie; z zakupem katalogu są trzy na dyktando, a iDyktando Bez limitu czyni je bez ograniczeń. Potrzebne jest połączenie z internetem, a dostępność może być ograniczona.</p>
     </div>
     <div class="card">
       <h3>ŚLEDŹ SWOJE POSTĘPY</h3>
-      <p>Nic nie motywuje bardziej niż widok przebytej drogi. Ekran „Moje postępy” zbiera twoje prawdziwe liczby: serię aktywnych dni, poprawione dyktanda, średnią, ostatnie wyniki i stan zeszytu. Twój poziom — od początkującego do eksperta — rośnie z każdym poprawionym dyktandem. Z zakupem katalogu albo z iDyktando Bez limitu udostępniasz raport postępów: idealny, by śledzić postępy dziecka — albo po prostu wytrwać.</p>
+      <p>Ekran „Moje postępy” zbiera twoje prawdziwe liczby: seria aktywnych dni, poprawione dyktanda, średnia i stan zeszytu. Twoja liga — od początkującego do eksperta — rośnie z każdym poprawionym dyktandem. Z zakupem katalogu albo z subskrypcją udostępniasz raport: idealny, by śledzić postępy dziecka.</p>
     </div>
   </div>
 </section>

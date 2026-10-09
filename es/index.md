@@ -43,16 +43,16 @@ permalink: /es/
   <h2 class="section-title">¿Por qué iDictado?</h2>
   <div class="cards">
     <div class="card">
-      <h3>EL DICTADO DEL DÍA: UNA BUENA COSTUMBRE</h3>
-      <p>Cada día un texto elegido para que te apetezca volver a escribir. Desde el menú principal, toca «Hacer el dictado del día», escucha las secuencias a tu ritmo y pasa a la corrección. Para descargarlo hace falta conexión a Internet.</p>
+      <h3>SIEVE IDIOMAS DE DICTADOS, UNA SOLA APP</h3>
+      <p>La app está en español — los dictados los eliges tú. Toca la bandera en la parte superior del menú para practicar español, inglés, francés, alemán, italiano, polaco o portugués: el dictado del día, los niveles, el catálogo y la corrección siguen el idioma elegido. Ideal para mantener una lengua aprendida en la escuela.</p>
     </div>
     <div class="card">
       <h3>ENCONTRAR LOS ERRORES Y ENTENDER LAS REGLAS</h3>
-      <p>La corrección visual compara tu texto con el original. Toca un error: recibes una explicación y un consejo para entenderlo mejor. Cada dictado ofrece una explicación; con la compra del catálogo son tres por dictado, e iDictado Ilimitado las hace ilimitadas. Estas explicaciones necesitan conexión a Internet y su disponibilidad puede ser limitada.</p>
+      <p>La corrección compara tu texto con el original. Toca un error: recibes una explicación y un consejo. Cada dictado ofrece una explicación; con la compra del catálogo son tres por dictado, e iDictado Ilimitado las hace ilimitadas. Hace falta conexión a Internet; la disponibilidad puede ser limitada.</p>
     </div>
     <div class="card">
       <h3>SIGUE TU PROGRESO</h3>
-      <p>Nada motiva más que ver el camino recorrido. La pantalla «Mi progreso» reúne tus cifras reales: tu racha de días activos, tus dictados corregidos, tu media, tus últimos resultados y el estado de tu cuaderno. Tu nivel — de principiante a experto — crece con cada dictado corregido. Con la compra del catálogo o con iDictado Ilimitado compartes un informe de progreso: ideal para seguir los avances de un niño — o simplemente para no perder el rumbo.</p>
+      <p>La pantalla «Mi progreso» reúne tus cifras reales: racha de días activos, dictados corregidos, media y estado de tu cuaderno. Tu liga — de principiante a experto — crece con cada dictado corregido. Con la compra del catálogo o la suscripción compartes un informe: ideal para seguir los avances de un niño.</p>
     </div>
   </div>
 </section>

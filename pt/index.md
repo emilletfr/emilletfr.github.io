@@ -2,7 +2,7 @@
 layout: default
 lang: pt
 title: "iDitado – ditados"
-meta_description: "Faça da ortografia um compromisso regular. Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia é grátis todos os dias, e o primeiro ditado de cada nível é grátis para sempre."
+meta_description: "Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia é grátis todos os dias, e o primeiro ditado de cada nível é grátis para sempre."
 permalink: /pt/
 ---
 
@@ -11,7 +11,7 @@ permalink: /pt/
     <div>
       <p class="kicker">iDitado · ditados</p>
       <h1>Faça da ortografia um compromisso regular.</h1>
-      <p class="lede">Faça da ortografia um compromisso regular. Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia é grátis todos os dias, e o primeiro ditado de cada nível é grátis para sempre.</p>
+      <p class="lede">Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia é grátis todos os dias, e o primeiro ditado de cada nível é grátis para sempre.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Baixar na App Store">
@@ -43,16 +43,16 @@ permalink: /pt/
   <h2 class="section-title">Por que o iDitado?</h2>
   <div class="cards">
     <div class="card">
-      <h3>O DITADO DO DIA: UM BOM HÁBITO A CRIAR</h3>
-      <p>Um texto escolhido todos os dias para dar vontade de voltar a escrever. No menu principal, toque em «Fazer o ditado do dia», ouça as sequências no seu ritmo e passe para a correção. É preciso uma conexão à Internet para baixá-lo.</p>
+      <h3>SETE IDIOMAS DE DITADOS, UM SÓ APLICATIVO</h3>
+      <p>O aplicativo é em português — os ditados, você escolhe. Toque na bandeira no topo do menu para treinar português, inglês, francês, alemão, espanhol, italiano ou polonês: o ditado do dia, os níveis, o catálogo e a correção seguem o idioma escolhido. Ideal para manter uma língua aprendida na escola.</p>
     </div>
     <div class="card">
       <h3>PERCEBA SEUS ERROS, ENTENDA AS REGRAS</h3>
-      <p>A correção visual compara o seu texto com o texto esperado. Toque em um erro: você recebe uma explicação e uma dica para entendê-lo melhor. Cada ditado oferece uma explicação; o desbloqueio do catálogo dá três por ditado, e a assinatura iDitado Ilimitado as torna ilimitadas. Essas explicações usam uma conexão à Internet e a disponibilidade pode ser limitada.</p>
+      <p>A correção compara o seu texto com o texto esperado. Toque em um erro: você recebe uma explicação e uma dica. Cada ditado oferece uma explicação; o desbloqueio do catálogo dá três por ditado, e a assinatura iDitado Ilimitado as torna ilimitadas. É preciso uma conexão à Internet, e a disponibilidade pode ser limitada.</p>
     </div>
     <div class="card">
       <h3>ACOMPANHE SEU PROGRESSO</h3>
-      <p>Nada motiva mais do que ver o caminho percorrido. A tela «Meu progresso» reúne os seus números reais: a sua sequência de dias, os ditados corrigidos, a nota média, as últimas notas e o estado do seu caderno. A sua liga, de Iniciante a Especialista, evolui a cada ditado corrigido. Com a compra do catálogo completo ou a assinatura iDitado Ilimitado, compartilhe um relatório de progresso: ideal para acompanhar o avanço de uma criança ou simplesmente manter o ritmo.</p>
+      <p>A tela «Meu progresso» reúne os seus números reais: sequência de dias, ditados corrigidos, nota média e o estado do seu caderno. A sua liga, de Iniciante a Especialista, evolui a cada ditado corrigido. Com a compra do catálogo completo ou a assinatura, compartilhe um relatório: ideal para acompanhar o avanço de uma criança.</p>
     </div>
   </div>
 </section>

@@ -43,16 +43,16 @@ permalink: /it/
   <h2 class="section-title">Perché iDettato?</h2>
   <div class="cards">
     <div class="card">
-      <h3>IL DETTATO DEL GIORNO: UNA BUONA ABITUDINE</h3>
-      <p>Ogni giorno un testo scelto per farti venire voglia di riscrivere. Dal menu principale tocca «Fai il dettato del giorno», ascolta le sequenze al tuo ritmo e passa alla correzione. Per scaricarlo serve una connessione a Internet.</p>
+      <h3>SETTE LINGUE DI DETTATI, UNA SOLA APP</h3>
+      <p>L'app è in italiano — i dettati li scegli tu. Tocca la bandiera in alto nel menu per esercitarti in italiano, inglese, francese, tedesco, spagnolo, polacco o portoghese: il dettato del giorno, i livelli, il catalogo e la correzione seguono la lingua scelta. Ideale per mantenere una lingua imparata a scuola.</p>
     </div>
     <div class="card">
       <h3>TROVARE GLI ERRORI E CAPIRE LE REGOLE</h3>
-      <p>La correzione visiva confronta il tuo testo con l'originale. Tocca un errore: ricevi una spiegazione e un consiglio per capirlo meglio. Ogni dettato offre una spiegazione; con l'acquisto del catalogo sono tre per dettato, e iDettato Illimitato le rende illimitate. Queste spiegazioni richiedono una connessione a Internet e la disponibilità può essere limitata.</p>
+      <p>La correzione confronta il tuo testo con l'originale. Tocca un errore: ricevi una spiegazione e un consiglio. Ogni dettato offre una spiegazione; con l'acquisto del catalogo sono tre per dettato, e iDettato Illimitato le rende illimitate. Serve una connessione a Internet; la disponibilità può essere limitata.</p>
     </div>
     <div class="card">
       <h3>SEGUI I TUOI PROGRESSI</h3>
-      <p>Niente motiva più del guardare la strada già fatta. La schermata «I miei progressi» raccoglie i tuoi numeri reali: la serie di giorni attivi, i dettati corretti, la media, gli ultimi risultati e lo stato del quaderno. Il tuo livello — da principiante a esperto — cresce con ogni dettato corretto. Con l'acquisto del catalogo o con iDettato Illimitato condividi un report dei progressi: ideale per seguire i progressi di un bambino — o semplicemente per non mollare.</p>
+      <p>La schermata «I miei progressi» raccoglie i tuoi numeri reali: serie di giorni attivi, dettati corretti, media e stato del quaderno. La tua lega — da principiante a esperto — cresce con ogni dettato corretto. Con l'acquisto del catalogo o l'abbonamento condividi un report: ideale per seguire i progressi di un bambino.</p>
     </div>
   </div>
 </section>

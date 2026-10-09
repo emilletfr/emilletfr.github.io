@@ -41,16 +41,16 @@ meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. L
   <h2 class="section-title">Pourquoi iDictée ?</h2>
   <div class="cards">
     <div class="card">
-      <h3>LA DICTÉE DU JOUR : UNE BONNE HABITUDE À PRENDRE</h3>
-      <p>Un texte sélectionné chaque jour pour vous donner envie de revenir écrire. Depuis le menu principal, touchez « Faire la dictée du jour », écoutez les séquences à votre rythme et passez à la correction. Une connexion Internet est nécessaire pour la télécharger.</p>
+      <h3>SEPT LANGUES DE DICTÉES, UNE SEULE APP</h3>
+      <p>L’application est en français — les dictées, elles, se choisissent. Touchez le drapeau en haut du menu pour travailler le français, l’anglais, l’allemand, l’espagnol, l’italien, le polonais ou le portugais : la dictée du jour, les niveaux, le catalogue et la correction suivent la langue choisie. Idéal pour entretenir une langue apprise à l’école.</p>
     </div>
     <div class="card">
       <h3>REPÉREZ VOS ERREURS, COMPRENEZ LES RÈGLES</h3>
-      <p>La correction visuelle compare votre copie avec le texte attendu. Touchez une erreur : vous recevez une explication et une astuce pour mieux la comprendre. Chaque dictée offre une explication ; le déblocage du catalogue en donne trois par dictée, et l’abonnement iDictée Illimité les rend illimitées. Ces explications utilisent une connexion Internet et leur disponibilité peut être limitée.</p>
+      <p>La correction compare votre copie au texte attendu. Touchez une erreur : vous recevez une explication et une astuce. Chaque dictée offre une explication ; l’achat du catalogue en donne trois par dictée, et l’abonnement iDictée Illimité les rend illimitées. Une connexion Internet est nécessaire, et leur disponibilité peut être limitée.</p>
     </div>
     <div class="card">
       <h3>SUIVEZ VOTRE PROGRESSION</h3>
-      <p>Rien de plus motivant que de voir le chemin parcouru. L’écran « Ma progression » rassemble vos vrais chiffres : votre série de jours d’activité, vos dictées corrigées, votre score moyen, vos derniers scores et l’état de votre carnet. Votre niveau, du Débutant à l’Expert, évolue à chaque dictée corrigée. Avec l’achat du catalogue complet ou l’abonnement iDictée Illimité, partagez un rapport de progression : idéal pour suivre les progrès d’un enfant, ou simplement garder le cap.</p>
+      <p>L’écran « Ma progression » rassemble vos vrais chiffres : série de jours, dictées corrigées, score moyen et état du carnet. Votre ligue, du Débutant à l’Expert, évolue à chaque dictée corrigée. Avec l’achat du catalogue complet ou l’abonnement iDictée Illimité, partagez un rapport : idéal pour suivre les progrès d’un enfant.</p>
     </div>
   </div>
 </section>

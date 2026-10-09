@@ -2,7 +2,7 @@
 layout: default
 lang: en
 title: "iDictation – dictation practice"
-meta_description: "Make spelling a regular appointment. With iDictation, listen, write and understand your mistakes. The daily dictation is free every day, and the first dictation of each level is free forever."
+meta_description: "With iDictation, listen, write and understand your mistakes. The daily dictation is free every day, and the first dictation of each level is free forever."
 permalink: /en/
 ---
 
@@ -11,7 +11,7 @@ permalink: /en/
     <div>
       <p class="kicker">iDictation · dictation practice</p>
       <h1>Make spelling a regular appointment.</h1>
-      <p class="lede">Make spelling a regular appointment. With iDictation, listen, write and understand your mistakes. The daily dictation is free every day, and the first dictation of each level is free forever.</p>
+      <p class="lede">With iDictation, listen, write and understand your mistakes. The daily dictation is free every day, and the first dictation of each level is free forever.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
@@ -43,16 +43,16 @@ permalink: /en/
   <h2 class="section-title">Why iDictation?</h2>
   <div class="cards">
     <div class="card">
-      <h3>THE DAILY DICTATION: A GOOD HABIT TO KEEP</h3>
-      <p>A text selected every day to make you want to come back and write. From the main menu, tap "Do today's dictation", listen to the sections at your own pace and move on to the correction. An Internet connection is needed to download it.</p>
+      <h3>SEVEN DICTATION LANGUAGES, ONE APP</h3>
+      <p>The app itself is in English — the dictations are yours to choose. Tap the flag at the top of the menu to practice English, French, German, Spanish, Italian, Polish or Portuguese: the daily dictation, the levels, the catalog and the correction all follow the language you pick. Perfect for keeping up a language learned at school.</p>
     </div>
     <div class="card">
       <h3>SPOT YOUR MISTAKES, UNDERSTAND THE RULES</h3>
-      <p>The visual correction compares your work with the expected text. Tap a mistake: you get an explanation and a tip to understand it better. Each dictation includes one explanation; unlocking the catalog gives three per dictation, and the iDictation Unlimited subscription makes them unlimited. These explanations use an Internet connection and their availability may be limited.</p>
+      <p>The correction compares your work with the expected text. Tap a mistake: you get an explanation and a tip. Each dictation includes one explanation; unlocking the catalog gives three per dictation, and the iDictation Unlimited subscription makes them unlimited. An Internet connection is needed, and their availability may be limited.</p>
     </div>
     <div class="card">
       <h3>TRACK YOUR PROGRESS</h3>
-      <p>Nothing is more motivating than seeing how far you have come. "My progress" brings together your real figures: your day streak, your corrected dictations, your average score, your latest scores and the state of your notebook. Your league, from Beginner to Expert, moves up with every corrected dictation. With the full catalog purchase or the iDictation Unlimited subscription, share a progress report: ideal for following a child's progress, or simply staying on track.</p>
+      <p>"My progress" brings together your real figures: day streak, corrected dictations, average score and the state of your notebook. Your league, from Beginner to Expert, moves up with every corrected dictation. With the full catalog purchase or subscription, share a report: ideal for following a child's progress.</p>
     </div>
   </div>
 </section>
