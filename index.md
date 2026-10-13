@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "iDictée — dictées vocales pour progresser en orthographe"
-meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour est offerte chaque jour, et la première dictée de chaque niveau est gratuite pour toujours."
+meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour, et la première dictée de chaque niveau est gratuite pour toujours."
 ---
 
 <section class="hero-band">
@@ -9,7 +9,7 @@ meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. L
     <div>
       <p class="kicker">iDictée · dictées vocales</p>
       <h1>Faites de l’orthographe un rendez-vous régulier.</h1>
-      <p class="lede">Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour est offerte chaque jour, et la première dictée de chaque niveau est gratuite pour toujours.</p>
+      <p class="lede">Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour, et la première dictée de chaque niveau est gratuite pour toujours.</p>
       <div class="badges">
         <a href="https://apps.apple.com/fr/app/idict%C3%A9e/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Télécharger sur l'App Store">
@@ -18,6 +18,7 @@ meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. L
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" alt="Disponible sur Google Play">
         </a>
       </div>
+      <p class="proof">Déjà plus de 500 000 téléchargements : élèves et parents s’entraînent avec iDictée.</p>
       <p class="note">Une explication de faute offerte par dictée.</p>
     </div>
     <div class="hero-art">
@@ -42,21 +43,21 @@ meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. L
   <div class="cards">
     <div class="card">
       <h3>SEPT LANGUES DE DICTÉES, UNE SEULE APP</h3>
-      <p>L’application est en français — les dictées, elles, se choisissent. Touchez le drapeau en haut du menu pour travailler le français, l’anglais, l’allemand, l’espagnol, l’italien, le polonais ou le portugais : la dictée du jour, les niveaux, le catalogue et la correction suivent la langue choisie. Idéal pour entretenir une langue apprise à l’école.</p>
+      <p>L’application est en français. Les dictées, elles, se choisissent : touchez le drapeau en haut du menu pour travailler le français, l’anglais, l’allemand, l’espagnol, l’italien, le polonais ou le portugais. La dictée du jour, les niveaux, le catalogue et la correction suivent la langue choisie. Idéal pour entretenir une langue apprise à l’école.</p>
     </div>
     <div class="card">
       <h3>REPÉREZ VOS ERREURS, COMPRENEZ LES RÈGLES</h3>
-      <p>La correction compare votre copie au texte attendu. Touchez une erreur : vous recevez une explication et une astuce. Chaque dictée offre une explication ; l’achat du catalogue en donne trois par dictée, et l’abonnement iDictée Illimité les rend illimitées. Une connexion Internet est nécessaire, et leur disponibilité peut être limitée.</p>
+      <p>La correction compare ce que vous avez écrit au texte attendu. Touchez une erreur : vous recevez une explication et une astuce pour retenir la règle. Une explication est offerte à chaque dictée.</p>
     </div>
     <div class="card">
       <h3>SUIVEZ VOTRE PROGRESSION</h3>
-      <p>L’écran « Ma progression » rassemble vos vrais chiffres : série de jours, dictées corrigées, score moyen et état du carnet. Votre ligue, du Débutant à l’Expert, évolue à chaque dictée corrigée. Avec l’achat du catalogue complet ou l’abonnement iDictée Illimité, partagez un rapport : idéal pour suivre les progrès d’un enfant.</p>
+      <p>L’écran « Ma progression » rassemble vos vrais chiffres : série de jours, dictées corrigées, score moyen et état du carnet. Votre ligue, du Débutant à l’Expert, évolue à chaque dictée corrigée. Et vous pouvez partager un rapport, idéal pour suivre les progrès d’un enfant.</p>
     </div>
   </div>
 </section>
 
 <section class="wrap">
-  <p class="audience"><strong>POUR QUI ?</strong>Pour les élèves — du CE1 à la 3e — comme pour les adultes qui veulent se remettre à niveau.</p>
+  <p class="audience"><strong>POUR QUI ?</strong>Pour les élèves, du CE1 à la 3e, comme pour les adultes qui veulent se remettre à niveau.</p>
 </section>
 
 <section class="wrap">

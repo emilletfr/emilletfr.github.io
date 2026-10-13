@@ -2,7 +2,7 @@
 layout: default
 lang: en
 title: "iDictation – dictation practice"
-meta_description: "With iDictation, listen, write and understand your mistakes. The daily dictation is free every day, and the first dictation of each level is free forever."
+meta_description: "With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day, and the first dictation of each level is free forever."
 permalink: /en/
 ---
 
@@ -11,7 +11,7 @@ permalink: /en/
     <div>
       <p class="kicker">iDictation · dictation practice</p>
       <h1>Make spelling a regular appointment.</h1>
-      <p class="lede">With iDictation, listen, write and understand your mistakes. The daily dictation is free every day, and the first dictation of each level is free forever.</p>
+      <p class="lede">With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day, and the first dictation of each level is free forever.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
@@ -20,6 +20,7 @@ permalink: /en/
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play">
         </a>
       </div>
+      <p class="proof">Over 500,000 downloads: students, parents and adults practise with iDictation.</p>
       <p class="note">One explanation per dictation, free.</p>
     </div>
     <div class="hero-art">
@@ -44,21 +45,21 @@ permalink: /en/
   <div class="cards">
     <div class="card">
       <h3>SEVEN DICTATION LANGUAGES, ONE APP</h3>
-      <p>The app itself is in English — the dictations are yours to choose. Tap the flag at the top of the menu to practice English, French, German, Spanish, Italian, Polish or Portuguese: the daily dictation, the levels, the catalog and the correction all follow the language you pick. Perfect for keeping up a language learned at school.</p>
+      <p>The app itself is in English. The dictations are yours to choose: tap the flag at the top of the menu to practice English, French, German, Spanish, Italian, Polish or Portuguese. The daily dictation, the levels, the catalog and the correction all follow the language you pick. Perfect for keeping up a language learned at school.</p>
     </div>
     <div class="card">
       <h3>SPOT YOUR MISTAKES, UNDERSTAND THE RULES</h3>
-      <p>The correction compares your work with the expected text. Tap a mistake: you get an explanation and a tip. Each dictation includes one explanation; unlocking the catalog gives three per dictation, and the iDictation Unlimited subscription makes them unlimited. An Internet connection is needed, and their availability may be limited.</p>
+      <p>The correction compares your work with the expected text. Tap a mistake: you get an explanation and a tip to remember the rule. Every dictation includes one free explanation.</p>
     </div>
     <div class="card">
       <h3>TRACK YOUR PROGRESS</h3>
-      <p>"My progress" brings together your real figures: day streak, corrected dictations, average score and the state of your notebook. Your league, from Beginner to Expert, moves up with every corrected dictation. With the full catalog purchase or subscription, share a report: ideal for following a child's progress.</p>
+      <p>"My progress" brings together your real figures: day streak, corrected dictations, average score and the state of your notebook. Your league, from Beginner to Expert, moves up with every corrected dictation. And you can share a report, ideal for following a child's progress.</p>
     </div>
   </div>
 </section>
 
 <section class="wrap">
-  <p class="audience"><strong>WHO IS IT FOR?</strong>For students — from 8 to 14 years old — and for adults who want to brush up on their spelling.</p>
+  <p class="audience"><strong>WHO IS IT FOR?</strong>For students, from 8 to 14 years old, and for adults who want to brush up on their spelling.</p>
 </section>
 
 <section class="wrap">

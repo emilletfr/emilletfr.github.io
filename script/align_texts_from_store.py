@@ -45,32 +45,38 @@ SECTIONS_ATTENDUES = 10
 
 
 def parse_description(path):
-    """Décompose un description.txt en (p1, sections, en-tête puces, puces, citation)."""
+    """Décompose un description.txt en (p1, sections, listes, preuve, citation).
+
+    Structure des fiches « free-focused » (10/2026) : lede, puis la preuve
+    sociale sur une ligne seule, les sections, DEUX listes à puces
+    (« pour commencer » puis « pour les parents »), et la citation sur une
+    ligne seule en clôture.
+    """
     blocks = re.split(r'\n\s*\n', path.read_text(encoding='utf-8').strip())
     legal = [b for b in blocks if b.startswith('EULA')]
     assert len(legal) == 1, f'{path} : bloc légal introuvable ou multiple'
     blocks = blocks[:blocks.index(legal[0])]
 
     p1 = blocks[0].strip()
-    sections, bullets, quote = [], [], None
-    bullets_header = None
+    sections, lists, singles = [], [], []
     for block in blocks[1:]:
         lines = [l.rstrip() for l in block.split('\n') if l.strip()]
         assert lines, f'{path} : bloc vide inattendu'
         if len(lines) >= 2 and lines[1].startswith('• '):
             assert all(l.startswith('• ') for l in lines[1:]), f'{path} : liste hétérogène'
-            bullets_header = lines[0]
-            bullets = [l[2:].strip() for l in lines[1:]]
+            lists.append((lines[0], [l[2:].strip() for l in lines[1:]]))
         elif len(lines) == 1:
-            assert quote is None, f'{path} : plusieurs citations ?'
-            quote = lines[0]
+            singles.append(lines[0])
         else:
             sections.append((lines[0], ' '.join(lines[1:]).strip()))
 
     assert len(sections) == SECTIONS_ATTENDUES, f'{path} : {len(sections)} sections (attendu {SECTIONS_ATTENDUES})'
-    assert bullets and len(bullets) >= 8, f'{path} : {(len(bullets) if bullets else 0)} puces'
-    assert quote, f'{path} : citation manquante'
-    return p1, sections, bullets_header, bullets, quote
+    assert len(singles) == 2, f'{path} : {len(singles)} ligne(s) seule(s) (attendu 2 — preuve sociale + citation)'
+    proof, quote = singles
+    assert len(lists) == 2, f'{path} : {len(lists)} liste(s) (attendu 2 — pour commencer + pour les parents)'
+    assert len(lists[0][1]) >= 5, f'{path} : {len(lists[0][1])} puces « pour commencer »'
+    assert len(lists[1][1]) >= 3, f'{path} : {len(lists[1][1])} puces « pour les parents »'
+    return p1, sections, lists, proof, quote
 
 
 def first_sentence(text):
@@ -90,29 +96,37 @@ def sub_once(pattern, repl, text, what):
     return new
 
 
-def rebuild_descriptif(path, p1, sections, bullets_header, bullets, quote):
+def rebuild_descriptif(path, p1, sections, lists, proof, quote):
     """Ne touche que le corps après le <h1> (en-tête YAML et h1 conservés)."""
     text = path.read_text(encoding='utf-8')
     cut = text.index('<p class="lede">')
-    body = [f'<p class="lede">{p1}</p>', '']
+    body = [f'<p class="lede">{p1}</p>', '', f'<p class="proof">{proof}</p>', '']
     for header, paragraph in sections:
         body += [f'<h3>{header}</h3>', f'<p>{paragraph}</p>', '']
-    body += [f'<h3>{bullets_header}</h3>', '<ul>']
-    body += [f'<li>{b}</li>' for b in bullets]
-    body += ['</ul>', '', f'<blockquote class="quote"><p>{quote}</p></blockquote>', '']
+    for header, items in lists:
+        body += [f'<h3>{header}</h3>', '<ul>']
+        body += [f'<li>{b}</li>' for b in items]
+        body += ['</ul>', '']
+    body += [f'<blockquote class="quote"><p>{quote}</p></blockquote>', '']
     text = text[:cut] + '\n'.join(body)
     return sub_once(r'(meta_description:\s*")(.*?)(")',
                     lambda m: m.group(1) + drop_last_sentence(p1) + m.group(3),
                     text, 'meta_description (descriptif)')
 
 
-def rebuild_vitrine(path, p1, sections, bullets_header, bullets, quote):
+def rebuild_vitrine(path, p1, sections, lists, proof, quote):
     text = path.read_text(encoding='utf-8')
     h1, lede = first_sentence(p1)
     assert '"' not in lede, 'lede avec guillemet droit : casserait le YAML'
 
     text = sub_once(r'(<h1>)(.*?)(</h1>)', lambda m: m.group(1) + h1 + m.group(3), text, 'h1 vitrine')
     text = sub_once(r'(<p class="lede">)(.*?)(</p>)', lambda m: m.group(1) + lede + m.group(3), text, 'lede vitrine')
+
+    # La preuve sociale, sous les badges — juste avant la note (nouvelle
+    # fiche « free-focused », 10/2026).
+    text = sub_once(r'(\s*)(<p class="note">)',
+                    lambda m: m.group(1) + f'<p class="proof">{proof}</p>\n      ' + m.group(2),
+                    text, 'preuve vitrine')
 
     cards = list(re.finditer(r'(<div class="card">\s*<h3>)(.*?)(</h3>\s*<p>)(.*?)(</p>\s*</div>)', text, re.S))
     assert len(cards) == 3, f'{path} : {len(cards)} carte(s)'
@@ -143,13 +157,13 @@ def main():
     for lang, locale, descriptif_rel, vitrine_rel in LANGS:
         if args.langs and lang not in args.langs:
             continue
-        p1, sections, bullets_header, bullets, quote = parse_description(
+        p1, sections, lists, proof, quote = parse_description(
             STORE / locale / 'description.txt')
         jobs = [
             (descriptif_rel, lambda p, _rel=descriptif_rel: rebuild_descriptif(
-                p, p1, sections, bullets_header, bullets, quote)),
+                p, p1, sections, lists, proof, quote)),
             (vitrine_rel, lambda p, _rel=vitrine_rel: rebuild_vitrine(
-                p, p1, sections, bullets_header, bullets, quote)),
+                p, p1, sections, lists, proof, quote)),
         ]
         for rel, rebuild in jobs:
             path = SITE / rel

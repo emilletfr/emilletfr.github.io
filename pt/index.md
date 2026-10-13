@@ -2,7 +2,7 @@
 layout: default
 lang: pt
 title: "iDitado – ditados"
-meta_description: "Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia é grátis todos os dias, e o primeiro ditado de cada nível é grátis para sempre."
+meta_description: "Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias, e o primeiro ditado de cada nível é grátis para sempre."
 permalink: /pt/
 ---
 
@@ -11,7 +11,7 @@ permalink: /pt/
     <div>
       <p class="kicker">iDitado · ditados</p>
       <h1>Faça da ortografia um compromisso regular.</h1>
-      <p class="lede">Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia é grátis todos os dias, e o primeiro ditado de cada nível é grátis para sempre.</p>
+      <p class="lede">Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias, e o primeiro ditado de cada nível é grátis para sempre.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Baixar na App Store">
@@ -20,6 +20,7 @@ permalink: /pt/
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/pt_badge_web_generic.png" alt="Disponível no Google Play">
         </a>
       </div>
+      <p class="proof">Já mais de 500 000 downloads: alunos, pais e adultos praticam com iDitado.</p>
       <p class="note">Uma explicação grátis por ditado.</p>
     </div>
     <div class="hero-art">
@@ -44,21 +45,21 @@ permalink: /pt/
   <div class="cards">
     <div class="card">
       <h3>SETE IDIOMAS DE DITADOS, UM SÓ APLICATIVO</h3>
-      <p>O aplicativo é em português — os ditados, você escolhe. Toque na bandeira no topo do menu para treinar português, inglês, francês, alemão, espanhol, italiano ou polonês: o ditado do dia, os níveis, o catálogo e a correção seguem o idioma escolhido. Ideal para manter uma língua aprendida na escola.</p>
+      <p>O aplicativo é em português. Os ditados, você escolhe: toque na bandeira no topo do menu para treinar português, inglês, francês, alemão, espanhol, italiano ou polonês. O ditado do dia, os níveis, o catálogo e a correção seguem o idioma escolhido. Ideal para manter uma língua aprendida na escola.</p>
     </div>
     <div class="card">
       <h3>PERCEBA SEUS ERROS, ENTENDA AS REGRAS</h3>
-      <p>A correção compara o seu texto com o texto esperado. Toque em um erro: você recebe uma explicação e uma dica. Cada ditado oferece uma explicação; o desbloqueio do catálogo dá três por ditado, e a assinatura iDitado Ilimitado as torna ilimitadas. É preciso uma conexão à Internet, e a disponibilidade pode ser limitada.</p>
+      <p>A correção compara o seu texto com o texto esperado. Toque em um erro: você recebe uma explicação e uma dica para guardar a regra. Cada ditado inclui uma explicação grátis.</p>
     </div>
     <div class="card">
       <h3>ACOMPANHE SEU PROGRESSO</h3>
-      <p>A tela «Meu progresso» reúne os seus números reais: sequência de dias, ditados corrigidos, nota média e o estado do seu caderno. A sua liga, de Iniciante a Especialista, evolui a cada ditado corrigido. Com a compra do catálogo completo ou a assinatura, compartilhe um relatório: ideal para acompanhar o avanço de uma criança.</p>
+      <p>A tela «Meu progresso» reúne os seus números reais: sequência de dias, ditados corrigidos, nota média e o estado do seu caderno. A sua liga, de Iniciante a Especialista, evolui a cada ditado corrigido. E você pode compartilhar um relatório, ideal para acompanhar o avanço de uma criança.</p>
     </div>
   </div>
 </section>
 
 <section class="wrap">
-  <p class="audience"><strong>PARA QUEM?</strong>Para estudantes — de 8 a 14 anos — e para adultos que querem revisar a ortografia.</p>
+  <p class="audience"><strong>PARA QUEM?</strong>Para estudantes, de 8 a 14 anos, e para adultos que querem revisar a ortografia.</p>
 </section>
 
 <section class="wrap">

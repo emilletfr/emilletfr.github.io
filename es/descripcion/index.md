@@ -8,13 +8,15 @@ permalink: /es/descripcion/
 
 <h1>iDictado</h1>
 
-<p class="lede">Convierte la ortografía en una costumbre. Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día es gratis todos los días, y el primer dictado de cada nivel es gratuito para siempre.</p>
+<p class="lede">Convierte la ortografía en una costumbre. Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día, y el primer dictado de cada nivel es gratuito para siempre.</p>
 
-<h3>SIEVE IDIOMAS DE DICTADOS, UNA SOLA APP</h3>
-<p>La app está en español — los dictados los eliges tú. Toca la bandera en la parte superior del menú para practicar español, inglés, francés, alemán, italiano, polaco o portugués: el dictado del día, los niveles, el catálogo y la corrección siguen el idioma elegido. Ideal para mantener una lengua aprendida en la escuela.</p>
+<p class="proof">Ya más de 500 000 descargas: alumnos, padres y adultos practican con iDictado.</p>
+
+<h3>SIETE IDIOMAS DE DICTADOS, UNA SOLA APP</h3>
+<p>La app está en español. Los dictados los eliges tú: toca la bandera en la parte superior del menú para practicar español, inglés, francés, alemán, italiano, polaco o portugués. El dictado del día, los niveles, el catálogo y la corrección siguen el idioma elegido. Ideal para mantener una lengua aprendida en la escuela.</p>
 
 <h3>EL DICTADO DEL DÍA: UNA BUENA COSTUMBRE</h3>
-<p>Cada día un texto elegido para que te apetezca volver a escribir. Toca «Hacer el dictado del día», escucha las secuencias a tu ritmo y pasa a la corrección. Hace falta conexión a Internet.</p>
+<p>Cada día un texto elegido para que te apetezca volver a escribir. Toca «Hacer el dictado del día», escucha las secuencias a tu ritmo y pasa a la corrección.</p>
 
 <h3>UN RECORDATORIO PARA NO PERDÉRTELO</h3>
 <p>Activa el recordatorio desde el menú: tu dispositivo te avisa cuando el dictado del día te espera. Aplázalo con un toque o desactívalo cuando quieras. El recordatorio se queda en tu dispositivo, sin registro.</p>
@@ -26,30 +28,37 @@ permalink: /es/descripcion/
 <p>¿Se te escapa un fragmento? Vuelve a escucharlo las veces que necesites o salta al anterior. Las secuencias lentas te dan tiempo para escribir. Tú decides cuándo continuar: nadie te dicta el texto.</p>
 
 <h3>ENCONTRAR LOS ERRORES Y ENTENDER LAS REGLAS</h3>
-<p>La corrección compara tu texto con el original. Toca un error: recibes una explicación y un consejo. Cada dictado ofrece una explicación; con la compra del catálogo son tres por dictado, e iDictado Ilimitado las hace ilimitadas. Hace falta conexión a Internet; la disponibilidad puede ser limitada.</p>
+<p>La corrección compara tu texto con el original. Toca un error: recibes una explicación y un consejo para recordar la regla. Cada dictado incluye una explicación gratis.</p>
 
-<h3>TUS ERRORES — REPASADOS UNO A UNO</h3>
-<p>El cuaderno de repaso viene con la compra del catálogo completo o con iDictado Ilimitado: tus errores reunidos en tu dispositivo, con su explicación, convertidos en ejercicios. En el ejercicio escucha la frase original, escribe de nuevo la palabra correcta — y la palabra aprendida desaparece del cuaderno.</p>
+<h3>TUS ERRORES, REPASADOS UNO A UNO</h3>
+<p>Tus errores llegan a tu cuaderno, en tu dispositivo, con su explicación, convertidos en ejercicios. En el ejercicio, escucha la frase original y escribe de nuevo la palabra correcta. La palabra aprendida desaparece del cuaderno.</p>
 
 <h3>SIGUE TU PROGRESO</h3>
-<p>La pantalla «Mi progreso» reúne tus cifras reales: racha de días activos, dictados corregidos, media y estado de tu cuaderno. Tu liga — de principiante a experto — crece con cada dictado corregido. Con la compra del catálogo o la suscripción compartes un informe: ideal para seguir los avances de un niño.</p>
+<p>La pantalla «Mi progreso» reúne tus cifras reales: racha de días activos, dictados corregidos, media y estado de tu cuaderno. Tu liga, de principiante a experto, crece con cada dictado corregido. Y puedes compartir un informe, ideal para seguir los avances de un niño.</p>
 
 <h3>UN CATÁLOGO PARA PRACTICAR CON VARIEDAD</h3>
-<p>Elige entre 3 niveles de dificultad y repite dictados para mejorar tu puntuación: práctica para el colegio, para refrescar — o el placer de escribir bien.</p>
+<p>Elige entre 3 niveles de dificultad: los tres primeros dictados de cada nivel se abren con tus logros, y puedes repetir un dictado para mejorar tu puntuación. Práctica para el colegio, para refrescar o el placer de escribir bien.</p>
 
 <h3>¿PARA QUIÉN?</h3>
-<p>Para estudiantes — de 8 a 14 años — y para adultos que quieren repasar.</p>
+<p>Para estudiantes, de 8 a 14 años, y para adultos que quieren repasar.</p>
 
 <h3>CÓMO EMPEZAR</h3>
 <ul>
-<li>Siete idiomas de dictados: español, inglés, francés, alemán, italiano, polaco y portugués — la bandera del menú elige el idioma.</li>
-<li>Cada día, un dictado nuevo gratis.</li>
-<li>El primer dictado de cada nivel, gratis para siempre.</li>
-<li>Una explicación por dictado gratis, y un recordatorio diario si lo quieres.</li>
-<li>Desbloquea el catálogo completo con una compra única, o pasa a iDictado Ilimitado: todo el catálogo y explicaciones ilimitadas.</li>
-<li>El cuaderno de repaso viene con la compra o la suscripción: tus errores reunidos, para reescribirlos.</li>
-<li>El informe de progreso también se comparte.</li>
-<li>¿Ya la tienes? Tus explicaciones ilimitadas siguen contigo.</li>
+<li>Siete idiomas de dictados, elegidos con un toque. La bandera, arriba del menú.</li>
+<li>El dictado del día te espera cada día.</li>
+<li>Tus tres primeros dictados de cada nivel: el primero te espera, los siguientes se abren con tus logros.</li>
+<li>Entiende tus errores: una explicación y un consejo, en cada dictado.</li>
+<li>Tus errores reunidos en tu cuaderno, para reescribirlos hasta la palabra correcta.</li>
+<li>Tu progreso en cifras: racha, puntuación, liga. Y un informe para compartir.</li>
+<li>El recordatorio que avisa cuando el dictado del día te espera.</li>
+</ul>
+
+<h3>PARA LOS PADRES</h3>
+<ul>
+<li>Un informe de progreso para compartir: racha de días, notas y fallos pendientes.</li>
+<li>Sin registro: no hay que crear ninguna cuenta.</li>
+<li>El recordatorio del dictado del día, se activa o se desactiva con un toque.</li>
+<li>Niveles para toda la etapa escolar, de 8 a 14 años — y para adultos.</li>
 </ul>
 
 <blockquote class="quote"><p>Tu próxima cita con las palabras empieza aquí.</p></blockquote>

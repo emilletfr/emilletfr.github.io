@@ -2,7 +2,7 @@
 layout: default
 lang: de
 title: "iDiktat – Diktate üben"
-meta_description: "Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat ist jeden Tag gratis, und das erste Diktat jeder Stufe bleibt für immer kostenlos."
+meta_description: "Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie, und das erste Diktat jeder Stufe bleibt für immer kostenlos."
 permalink: /de/
 ---
 
@@ -11,7 +11,7 @@ permalink: /de/
     <div>
       <p class="kicker">iDiktat · Diktate üben</p>
       <h1>Machen Sie Rechtschreibung zu einer festen Gewohnheit.</h1>
-      <p class="lede">Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat ist jeden Tag gratis, und das erste Diktat jeder Stufe bleibt für immer kostenlos.</p>
+      <p class="lede">Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie, und das erste Diktat jeder Stufe bleibt für immer kostenlos.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Laden im App Store">
@@ -20,6 +20,7 @@ permalink: /de/
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/de_badge_web_generic.png" alt="Jetzt bei Google Play">
         </a>
       </div>
+      <p class="proof">Über 500 000 Mal installiert — für Schule und Erwachsene.</p>
       <p class="note">Eine Erklärung pro Diktat gratis.</p>
     </div>
     <div class="hero-art">
@@ -44,21 +45,21 @@ permalink: /de/
   <div class="cards">
     <div class="card">
       <h3>SIEBEN SPRACHEN FÜR DIKTATE, EINE APP</h3>
-      <p>Die App bleibt auf Deutsch — die Sprache der Diktate bestimmen Sie. Tippen Sie oben im Menü auf die Flagge, um Deutsch, Englisch, Französisch, Spanisch, Italienisch, Polnisch oder Portugiesisch zu üben: Das Tagesdiktat, die Stufen, der Katalog und die Korrektur folgen der gewählten Sprache.</p>
+      <p>Die App bleibt auf Deutsch. Die Sprache der Diktate bestimmen Sie: Tippen Sie oben im Menü auf die Flagge, um Deutsch, Englisch, Französisch, Spanisch, Italienisch, Polnisch oder Portugiesisch zu üben. Das Tagesdiktat, die Stufen, der Katalog und die Korrektur folgen der gewählten Sprache. Ideal, um eine in der Schule gelernte Sprache lebendig zu halten.</p>
     </div>
     <div class="card">
       <h3>FEHLER FINDEN, REGELN VERSTEHEN</h3>
-      <p>Die Korrektur vergleicht Ihren Text mit der Vorlage. Tippen Sie einen Fehler an: Sie erhalten eine Erklärung und einen Tipp. Jedes Diktat bietet eine Erklärung; mit dem Katalog-Kauf drei pro Diktat, mit iDiktat Unbegrenzt unbegrenzt. Eine Internetverbindung ist nötig; die Verfügbarkeit kann begrenzt sein.</p>
+      <p>Die Korrektur vergleicht Ihren Text mit der Vorlage. Tippen Sie einen Fehler an: Sie erhalten eine Erklärung und einen Tipp, um die Regel zu behalten. Eine Erklärung ist bei jedem Diktat gratis.</p>
     </div>
     <div class="card">
       <h3>VERFOLGEN SIE IHREN FORTSCHRITT</h3>
-      <p>Der Bildschirm „Mein Fortschritt“ versammelt Ihre echten Zahlen: Serie aktiver Tage, korrigierte Diktate, Durchschnitt und Stand des Hefts. Ihre Liga — von Anfänger bis Experte — wächst mit jedem korrigierten Diktat. Mit dem Kauf des Katalogs oder dem Abo iDiktat Unbegrenzt teilen Sie einen Fortschrittsbericht: ideal, um die Fortschritte eines Kindes zu verfolgen.</p>
+      <p>Der Bildschirm „Mein Fortschritt“ versammelt Ihre echten Zahlen: Serie aktiver Tage, korrigierte Diktate, Durchschnitt und Stand des Hefts. Ihre Liga, von Anfänger bis Experte, wächst mit jedem korrigierten Diktat. Und Sie können einen Fortschrittsbericht teilen, ideal, um die Fortschritte eines Kindes zu verfolgen.</p>
     </div>
   </div>
 </section>
 
 <section class="wrap">
-  <p class="audience"><strong>FÜR WEN?</strong>Für Schülerinnen und Schüler — von Klasse 3 bis 8 — und für Erwachsene, die ihr Wissen auffrischen möchten.</p>
+  <p class="audience"><strong>FÜR WEN?</strong>Für Schülerinnen und Schüler, von Klasse 3 bis 8, und für Erwachsene, die ihr Wissen auffrischen möchten.</p>
 </section>
 
 <section class="wrap">

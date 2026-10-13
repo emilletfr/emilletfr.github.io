@@ -131,6 +131,7 @@ h1,h2{
 .badges a:hover{transform:translateY(-2px)}
 .badges img{height:54px;width:auto;display:block;border-radius:9px}
 .note{margin:20px 0 0;font-size:14.5px;color:var(--muted)}
+.proof{margin:14px 0 0;font-size:14.5px;color:var(--teal-dark);font-weight:600}
 
 /* ---------- téléphones ---------- */
 .phone{

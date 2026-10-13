@@ -2,7 +2,7 @@
 layout: default
 lang: es
 title: "iDictado – practica dictados"
-meta_description: "Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día es gratis todos los días, y el primer dictado de cada nivel es gratuito para siempre."
+meta_description: "Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día, y el primer dictado de cada nivel es gratuito para siempre."
 permalink: /es/
 ---
 
@@ -11,7 +11,7 @@ permalink: /es/
     <div>
       <p class="kicker">iDictado · practica dictados</p>
       <h1>Convierte la ortografía en una costumbre.</h1>
-      <p class="lede">Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día es gratis todos los días, y el primer dictado de cada nivel es gratuito para siempre.</p>
+      <p class="lede">Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día, y el primer dictado de cada nivel es gratuito para siempre.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Descargar en el App Store">
@@ -20,6 +20,7 @@ permalink: /es/
           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Disponible en Google Play">
         </a>
       </div>
+      <p class="proof">Ya más de 500 000 descargas: alumnos, padres y adultos practican con iDictado.</p>
       <p class="note">Una explicación por dictado gratis.</p>
     </div>
     <div class="hero-art">
@@ -43,22 +44,22 @@ permalink: /es/
   <h2 class="section-title">¿Por qué iDictado?</h2>
   <div class="cards">
     <div class="card">
-      <h3>SIEVE IDIOMAS DE DICTADOS, UNA SOLA APP</h3>
-      <p>La app está en español — los dictados los eliges tú. Toca la bandera en la parte superior del menú para practicar español, inglés, francés, alemán, italiano, polaco o portugués: el dictado del día, los niveles, el catálogo y la corrección siguen el idioma elegido. Ideal para mantener una lengua aprendida en la escuela.</p>
+      <h3>SIETE IDIOMAS DE DICTADOS, UNA SOLA APP</h3>
+      <p>La app está en español. Los dictados los eliges tú: toca la bandera en la parte superior del menú para practicar español, inglés, francés, alemán, italiano, polaco o portugués. El dictado del día, los niveles, el catálogo y la corrección siguen el idioma elegido. Ideal para mantener una lengua aprendida en la escuela.</p>
     </div>
     <div class="card">
       <h3>ENCONTRAR LOS ERRORES Y ENTENDER LAS REGLAS</h3>
-      <p>La corrección compara tu texto con el original. Toca un error: recibes una explicación y un consejo. Cada dictado ofrece una explicación; con la compra del catálogo son tres por dictado, e iDictado Ilimitado las hace ilimitadas. Hace falta conexión a Internet; la disponibilidad puede ser limitada.</p>
+      <p>La corrección compara tu texto con el original. Toca un error: recibes una explicación y un consejo para recordar la regla. Cada dictado incluye una explicación gratis.</p>
     </div>
     <div class="card">
       <h3>SIGUE TU PROGRESO</h3>
-      <p>La pantalla «Mi progreso» reúne tus cifras reales: racha de días activos, dictados corregidos, media y estado de tu cuaderno. Tu liga — de principiante a experto — crece con cada dictado corregido. Con la compra del catálogo o la suscripción compartes un informe: ideal para seguir los avances de un niño.</p>
+      <p>La pantalla «Mi progreso» reúne tus cifras reales: racha de días activos, dictados corregidos, media y estado de tu cuaderno. Tu liga, de principiante a experto, crece con cada dictado corregido. Y puedes compartir un informe, ideal para seguir los avances de un niño.</p>
     </div>
   </div>
 </section>
 
 <section class="wrap">
-  <p class="audience"><strong>¿PARA QUIÉN?</strong>Para estudiantes — de 8 a 14 años — y para adultos que quieren repasar.</p>
+  <p class="audience"><strong>¿PARA QUIÉN?</strong>Para estudiantes, de 8 a 14 años, y para adultos que quieren repasar.</p>
 </section>
 
 <section class="wrap">
