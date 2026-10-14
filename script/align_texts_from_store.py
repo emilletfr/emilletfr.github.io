@@ -123,10 +123,12 @@ def rebuild_vitrine(path, p1, sections, lists, proof, quote):
     text = sub_once(r'(<p class="lede">)(.*?)(</p>)', lambda m: m.group(1) + lede + m.group(3), text, 'lede vitrine')
 
     # La preuve sociale, sous les badges — juste avant la note (nouvelle
-    # fiche « free-focused », 10/2026).
-    text = sub_once(r'(\s*)(<p class="note">)',
-                    lambda m: m.group(1) + f'<p class="proof">{proof}</p>\n      ' + m.group(2),
-                    text, 'preuve vitrine')
+    # fiche « free-focused », 10/2026). Idempotent : si la preuve est déjà
+    # posée avec ce texte, on ne la duplique pas.
+    if f'<p class="proof">{proof}</p>' not in text:
+        text = sub_once(r'(\s*)(<p class="note">)',
+                        lambda m: m.group(1) + f'<p class="proof">{proof}</p>\n      ' + m.group(2),
+                        text, 'preuve vitrine')
 
     cards = list(re.finditer(r'(<div class="card">\s*<h3>)(.*?)(</h3>\s*<p>)(.*?)(</p>\s*</div>)', text, re.S))
     assert len(cards) == 3, f'{path} : {len(cards)} carte(s)'
