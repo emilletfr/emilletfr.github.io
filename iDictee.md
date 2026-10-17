@@ -7,7 +7,7 @@ permalink: /idictee/
 
 <h1>iDictée</h1>
 
-<p class="lede">Faites de l’orthographe un rendez-vous régulier. Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour, et la première dictée de chaque niveau est gratuite pour toujours.</p>
+<p class="lede">Faites de l’orthographe un rendez-vous régulier. Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour.</p>
 
 <p class="proof">Déjà plus de 500 000 téléchargements : élèves et parents s’entraînent avec iDictée.</p>
 

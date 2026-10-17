@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "iDictée — dictées vocales pour progresser en orthographe"
-meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour, et la première dictée de chaque niveau est gratuite pour toujours."
+meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour."
 ---
 
 <section class="hero-band">
@@ -9,7 +9,7 @@ meta_description: "Avec iDictée, écoutez, écrivez et comprenez vos erreurs. L
     <div>
       <p class="kicker">iDictée · dictées vocales</p>
       <h1>Faites de l’orthographe un rendez-vous régulier.</h1>
-      <p class="lede">Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour, et la première dictée de chaque niveau est gratuite pour toujours.</p>
+      <p class="lede">Avec iDictée, écoutez, écrivez et comprenez vos erreurs. La dictée du jour vous attend chaque jour.</p>
       <div class="badges">
         <a href="https://apps.apple.com/fr/app/idict%C3%A9e/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Télécharger sur l'App Store">

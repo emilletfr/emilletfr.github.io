@@ -8,7 +8,7 @@ permalink: /en/description/
 
 <h1>iDictation</h1>
 
-<p class="lede">Make spelling a regular appointment. With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day, and the first dictation of each level is free forever.</p>
+<p class="lede">Make spelling a regular appointment. With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day.</p>
 
 <p class="proof">Over 500,000 downloads: students, parents and adults practise with iDictation.</p>
 

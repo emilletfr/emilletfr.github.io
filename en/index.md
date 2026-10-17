@@ -2,7 +2,7 @@
 layout: default
 lang: en
 title: "iDictation – dictation practice"
-meta_description: "With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day, and the first dictation of each level is free forever."
+meta_description: "With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day."
 permalink: /en/
 ---
 
@@ -11,7 +11,7 @@ permalink: /en/
     <div>
       <p class="kicker">iDictation · dictation practice</p>
       <h1>Make spelling a regular appointment.</h1>
-      <p class="lede">With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day, and the first dictation of each level is free forever.</p>
+      <p class="lede">With iDictation, listen, write and understand your mistakes. The daily dictation waits for you every day.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">

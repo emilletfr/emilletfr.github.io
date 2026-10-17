@@ -8,7 +8,7 @@ permalink: /it/descrizione/
 
 <h1>iDettato</h1>
 
-<p class="lede">Trasforma l'ortografia in un'abitudine. Con iDettato ascolti, scrivi e capisci i tuoi errori. Il dettato del giorno ti aspetta ogni giorno, e il primo dettato di ogni livello resta gratuito per sempre.</p>
+<p class="lede">Trasforma l'ortografia in un'abitudine. Con iDettato ascolti, scrivi e capisci i tuoi errori. Il dettato del giorno ti aspetta ogni giorno.</p>
 
 <p class="proof">Già più di 500 000 download: studenti, genitori e adulti si esercitano con iDettato.</p>
 

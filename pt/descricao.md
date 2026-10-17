@@ -8,7 +8,7 @@ permalink: /pt/descricao/
 
 <h1>iDitado</h1>
 
-<p class="lede">Faça da ortografia um compromisso regular. Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias, e o primeiro ditado de cada nível é grátis para sempre.</p>
+<p class="lede">Faça da ortografia um compromisso regular. Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias.</p>
 
 <p class="proof">Já mais de 500 000 downloads: alunos, pais e adultos praticam com iDitado.</p>
 

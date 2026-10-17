@@ -2,7 +2,7 @@
 layout: default
 lang: de
 title: "iDiktat – Diktate üben"
-meta_description: "Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie, und das erste Diktat jeder Stufe bleibt für immer kostenlos."
+meta_description: "Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie."
 permalink: /de/
 ---
 
@@ -11,7 +11,7 @@ permalink: /de/
     <div>
       <p class="kicker">iDiktat · Diktate üben</p>
       <h1>Machen Sie Rechtschreibung zu einer festen Gewohnheit.</h1>
-      <p class="lede">Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie, und das erste Diktat jeder Stufe bleibt für immer kostenlos.</p>
+      <p class="lede">Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Laden im App Store">

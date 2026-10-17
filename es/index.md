@@ -2,7 +2,7 @@
 layout: default
 lang: es
 title: "iDictado – practica dictados"
-meta_description: "Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día, y el primer dictado de cada nivel es gratuito para siempre."
+meta_description: "Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día."
 permalink: /es/
 ---
 
@@ -11,7 +11,7 @@ permalink: /es/
     <div>
       <p class="kicker">iDictado · practica dictados</p>
       <h1>Convierte la ortografía en una costumbre.</h1>
-      <p class="lede">Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día, y el primer dictado de cada nivel es gratuito para siempre.</p>
+      <p class="lede">Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Descargar en el App Store">

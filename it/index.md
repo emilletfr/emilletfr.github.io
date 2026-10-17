@@ -2,7 +2,7 @@
 layout: default
 lang: it
 title: "iDettato – dettati"
-meta_description: "Con iDettato ascolti, scrivi e capisci i tuoi errori. Il dettato del giorno ti aspetta ogni giorno, e il primo dettato di ogni livello resta gratuito per sempre."
+meta_description: "Con iDettato ascolti, scrivi e capisci i tuoi errori. Il dettato del giorno ti aspetta ogni giorno."
 permalink: /it/
 ---
 
@@ -11,7 +11,7 @@ permalink: /it/
     <div>
       <p class="kicker">iDettato · dettati</p>
       <h1>Trasforma l'ortografia in un'abitudine.</h1>
-      <p class="lede">Con iDettato ascolti, scrivi e capisci i tuoi errori. Il dettato del giorno ti aspetta ogni giorno, e il primo dettato di ogni livello resta gratuito per sempre.</p>
+      <p class="lede">Con iDettato ascolti, scrivi e capisci i tuoi errori. Il dettato del giorno ti aspetta ogni giorno.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Scarica su App Store">

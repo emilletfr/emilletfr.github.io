@@ -8,7 +8,7 @@ permalink: /de/beschreibung/
 
 <h1>iDiktat</h1>
 
-<p class="lede">Machen Sie Rechtschreibung zu einer festen Gewohnheit. Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie, und das erste Diktat jeder Stufe bleibt für immer kostenlos.</p>
+<p class="lede">Machen Sie Rechtschreibung zu einer festen Gewohnheit. Mit iDiktat hören Sie zu, schreiben mit und verstehen Ihre Fehler. Das Tagesdiktat wartet jeden Tag auf Sie.</p>
 
 <p class="proof">Über 500 000 Mal installiert — für Schule und Erwachsene.</p>
 

@@ -2,7 +2,7 @@
 layout: default
 lang: pl
 title: "iDyktando – dyktanda"
-meta_description: "Z iDyktando słuchasz, piszesz i rozumiesz swoje błędy. Dyktando dnia czeka na ciebie każdego dnia, a pierwsze dyktando każdego poziomu pozostaje darmowe na zawsze."
+meta_description: "Z iDyktando słuchasz, piszesz i rozumiesz swoje błędy. Dyktando dnia czeka na ciebie każdego dnia."
 permalink: /pl/
 ---
 
@@ -11,7 +11,7 @@ permalink: /pl/
     <div>
       <p class="kicker">iDyktando · dyktanda</p>
       <h1>Zamień ortografię w stały nawyk.</h1>
-      <p class="lede">Z iDyktando słuchasz, piszesz i rozumiesz swoje błędy. Dyktando dnia czeka na ciebie każdego dnia, a pierwsze dyktando każdego poziomu pozostaje darmowe na zawsze.</p>
+      <p class="lede">Z iDyktando słuchasz, piszesz i rozumiesz swoje błędy. Dyktando dnia czeka na ciebie każdego dnia.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Pobierz w App Store">

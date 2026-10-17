@@ -8,7 +8,7 @@ permalink: /es/descripcion/
 
 <h1>iDictado</h1>
 
-<p class="lede">Convierte la ortografía en una costumbre. Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día, y el primer dictado de cada nivel es gratuito para siempre.</p>
+<p class="lede">Convierte la ortografía en una costumbre. Con iDictado escuchas, escribes y entiendes tus errores. El dictado del día te espera cada día.</p>
 
 <p class="proof">Ya más de 500 000 descargas: alumnos, padres y adultos practican con iDictado.</p>
 

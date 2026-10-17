@@ -8,7 +8,7 @@ permalink: /pl/opis/
 
 <h1>iDyktando</h1>
 
-<p class="lede">Zamień ortografię w stały nawyk. Z iDyktando słuchasz, piszesz i rozumiesz swoje błędy. Dyktando dnia czeka na ciebie każdego dnia, a pierwsze dyktando każdego poziomu pozostaje darmowe na zawsze.</p>
+<p class="lede">Zamień ortografię w stały nawyk. Z iDyktando słuchasz, piszesz i rozumiesz swoje błędy. Dyktando dnia czeka na ciebie każdego dnia.</p>
 
 <p class="proof">Ponad 500 000 instalacji: uczniowie, rodzice i dorośli ćwiczą z iDyktando.</p>
 

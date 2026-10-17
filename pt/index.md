@@ -2,7 +2,7 @@
 layout: default
 lang: pt
 title: "iDitado – ditados"
-meta_description: "Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias, e o primeiro ditado de cada nível é grátis para sempre."
+meta_description: "Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias."
 permalink: /pt/
 ---
 
@@ -11,7 +11,7 @@ permalink: /pt/
     <div>
       <p class="kicker">iDitado · ditados</p>
       <h1>Faça da ortografia um compromisso regular.</h1>
-      <p class="lede">Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias, e o primeiro ditado de cada nível é grátis para sempre.</p>
+      <p class="lede">Com o iDitado, ouça, escreva e entenda seus erros. O ditado do dia espera por você todos os dias.</p>
       <div class="badges">
         <a href="https://apps.apple.com/app/id508373232" target="_blank" rel="noopener">
           <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Baixar na App Store">
