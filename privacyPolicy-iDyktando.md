@@ -29,6 +29,20 @@ Link do polityki prywatności usług stron trzecich wykorzystywanych przez aplik
 
 Chcę poinformować, że przy każdym korzystaniu z mojej usługi, w przypadku błędu w aplikacji, gromadzę dane i informacje (za pośrednictwem produktów stron trzecich) na Twoim telefonie — tzw. dane dziennika (Log Data). Te dane mogą obejmować informacje takie jak Twój adres protokołu internetowego („adres IP”), nazwę urządzenia, wersję systemu operacyjnego, konfigurację aplikacji podczas korzystania z mojej usługi, godzinę i datę korzystania z usługi oraz inne statystyki.
 
+**Anonimowe dane użytkowania (ulepszanie aplikacji)**
+
+Aby ulepszać aplikację, mogą być rejestrowane i przesyłane do naszego dostawcy hostingu (Google Firebase) **anonimowe sesje użytkowania**: **Twoje interakcje w aplikacji** (ekrany, gesty, tekst wpisany podczas dyktand) oraz **ograniczone informacje techniczne** (urządzenie, wersje, język, kraj, daty).
+
+Dane te:
+
+*   nie zawierają **żadnego imienia i nazwiska, adresu e-mail, identyfikatora konta ani reklamowego** i **nie są powiązane z Twoją tożsamością**;
+*   dotyczą wyłącznie **bezpłatnej wersji** aplikacji (zakup lub subskrypcja wyłącza to rejestrowanie);
+*   służą **wyłącznie ulepszaniu aplikacji** (zrozumiałość ekranów, jakość dyktand, płynność): **nigdy nie są wykorzystywane do reklam ani śledzenia** i nie są sprzedawane ani udostępniane w celach komercyjnych;
+*   są dostępne wyłącznie dla dewelopera;
+*   są **ograniczone do ostatnich 50 sesji** i **automatycznie usuwane po 30 dniach**.
+
+Przetwarzanie to opiera się na naszym prawnie uzasadnionym interesie ulepszania usługi (art. 6 ust. 1 lit. f RODO). **Możesz się mu sprzeciwić w dowolnym momencie**, pisząc na adres [contact@appseven.fr](mailto:contact@appseven.fr).
+
 **Pliki cookie**
 
 Pliki cookie to pliki z niewielką ilością danych, powszechnie używane jako anonimowe unikalne identyfikatory. Są wysyłane do Twojej przeglądarki przez odwiedzane witryny i zapisywane w pamięci wewnętrznej Twojego urządzenia.

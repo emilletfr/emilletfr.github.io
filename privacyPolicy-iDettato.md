@@ -29,6 +29,20 @@ Link all'informativa sulla privacy dei servizi di terze parti utilizzati dall'ap
 
 Desidero informarti che ogni volta che utilizzi il mio servizio, in caso di errore nell'app, raccolgo dati e informazioni (tramite prodotti di terze parti) sul tuo telefono — i cosiddetti dati di registro (Log Data). Questi dati di registro possono includere informazioni come il tuo indirizzo di protocollo Internet («indirizzo IP»), il nome del dispositivo, la versione del sistema operativo, la configurazione dell'app durante l'utilizzo del mio servizio, l'ora e la data di utilizzo del servizio e altre statistiche.
 
+**Dati d'uso anonimi (miglioramento dell'app)**
+
+Per migliorare l'app, possono essere registrate e trasmesse al nostro fornitore di hosting (Google Firebase) delle **sessioni d'uso anonime**: **le tue interazioni nell'app** (schermate, gesti, testo digitato durante i dettati) e **informazioni tecniche limitate** (dispositivo, versioni, lingua, paese, date).
+
+Questi dati:
+
+*   non contengono **alcun nome, né indirizzo e-mail, né identificatore di account o pubblicitario**, e **non sono riconducibili alla tua identità**;
+*   riguardano solo la **versione gratuita** dell'app (un acquisto o un abbonamento disattiva questa registrazione);
+*   servono **unicamente a migliorare l'app** (comprensione delle schermate, qualità dei dettati, fluidità): non sono **mai utilizzati per pubblicità o tracciamento**, né venduti o condivisi per scopi commerciali;
+*   sono accessibili solo allo sviluppatore;
+*   sono **limitate alle ultime 50 sessioni** e **cancellate automaticamente dopo 30 giorni**.
+
+Questo trattamento si basa sul nostro legittimo interesse a migliorare il servizio (articolo 6, paragrafo 1, lettera f, del GDPR). **Puoi opporti in qualsiasi momento** scrivendo a [contact@appseven.fr](mailto:contact@appseven.fr).
+
 **Cookie**
 
 I cookie sono file con una piccola quantità di dati, comunemente usati come identificatori unici anonimi. Vengono inviati al tuo browser dai siti web che visiti e memorizzati nella memoria interna del tuo dispositivo.

@@ -29,6 +29,20 @@ Link para a política de privacidade dos serviços de terceiros usados pelo apli
 
 Quero informar que, sempre que você usa o meu serviço, em caso de erro no aplicativo, eu coleto dados e informações (por meio de produtos de terceiros) sobre o seu telefone — os chamados dados de registro (Log Data). Esses dados de registro podem incluir informações como o seu endereço de protocolo de Internet («endereço IP»), o nome do aparelho, a versão do sistema operacional, a configuração do aplicativo durante o uso do meu serviço, a hora e a data de uso do serviço e outras estatísticas.
 
+**Dados de uso anónimos (melhoria da aplicação)**
+
+Para melhorar a aplicação, podem ser registadas e transmitidas ao nosso fornecedor de alojamento (Google Firebase) **sessões de utilização anónimas**: **as suas interações na aplicação** (ecrãs, gestos, texto introduzido durante os ditados) e **informações técnicas limitadas** (dispositivo, versões, idioma, país, datas).
+
+Estes dados:
+
+*   não contêm **qualquer nome, endereço de e-mail, identificador de conta ou de publicidade** e **não estão associados à sua identidade**;
+*   dizem respeito apenas à **versão gratuita** da aplicação (uma compra ou subscrição desativa este registo);
+*   servem **apenas para melhorar a aplicação** (compreensão dos ecrãs, qualidade dos ditados, fluidez): **nunca são utilizados para publicidade ou rastreamento**, nem vendidos ou partilhados para fins comerciais;
+*   são acessíveis apenas ao programador;
+*   estão **limitados às últimas 50 sessões** e são **eliminados automaticamente após 30 dias**.
+
+Este tratamento baseia-se no nosso interesse legítimo em melhorar o serviço (artigo 6.º, n.º 1, alínea f), do RGPD). **Pode opor-se em qualquer momento** escrevendo para [contact@appseven.fr](mailto:contact@appseven.fr).
+
 **Cookies**
 
 Cookies são arquivos com uma pequena quantidade de dados, comumente usados como identificadores únicos anônimos. Eles são enviados ao seu navegador pelos sites que você visita e armazenados na memória interna do seu aparelho.

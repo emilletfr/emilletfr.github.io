@@ -28,6 +28,20 @@ Lien vers la politique de confidentialité des services tiers utilisés par l'ap
 
 Je souhaite vous informer que, à chaque utilisation de mon service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone : les « données de journal ». Celles-ci peuvent comprendre votre adresse de protocole Internet (« adresse IP »), le nom de l'appareil, la version du système d'exploitation, la configuration de l'application pendant l'utilisation de mon service, la date et l'heure de votre utilisation du service, ainsi que d'autres statistiques.
 
+**Données d'usage anonymes (amélioration de l'application)**
+
+Pour améliorer l'application, des **sessions d'utilisation anonymes** peuvent être enregistrées et transmises à notre hébergeur (Google Firebase) : **vos interactions dans l'application** (écrans, gestes, texte saisi pendant les dictées) et **des informations techniques limitées** (appareil, versions, langue, pays, dates).
+
+Ces données :
+
+*   ne contiennent **aucun nom, ni adresse e-mail, ni identifiant de compte ou de publicité**, et ne sont **pas rattachées à votre identité** ;
+*   ne concernent que la **version gratuite** de l'application (un achat ou un abonnement désactive cet enregistrement) ;
+*   servent **uniquement à améliorer l'application** (compréhension des écrans, qualité des dictées, fluidité) : elles ne sont **jamais utilisées pour de la publicité ni pour du suivi**, et ne sont ni vendues ni partagées à des fins commerciales ;
+*   ne sont accessibles qu'au développeur ;
+*   sont **limitées aux 50 dernières sessions**, **supprimées automatiquement au bout de 30 jours**.
+
+Ce traitement repose sur notre intérêt légitime à améliorer le service (article 6.1.f du RGPD). **Vous pouvez vous y opposer à tout moment** en écrivant à [contact@appseven.fr](mailto:contact@appseven.fr).
+
 **Cookies**
 
 Les cookies sont des fichiers contenant une petite quantité de données, couramment utilisés comme identifiants uniques anonymes. Ils sont envoyés à votre navigateur par les sites web que vous consultez et stockés dans la mémoire interne de votre appareil.

@@ -29,6 +29,20 @@ Link zur Datenschutzerklärung der von der App genutzten Dienste Dritter
 
 Ich möchte Sie darüber informieren, dass ich bei jeder Nutzung meines Dienstes im Falle eines Fehlers in der App Daten und Informationen (über Produkte Dritter) auf Ihrem Telefon erhebe — sogenannte Protokolldaten (Log Data). Diese Protokolldaten können Informationen wie Ihre Internetprotokoll-Adresse („IP-Adresse“), den Gerätenamen, die Betriebssystemversion, die Konfiguration der App bei der Nutzung meines Dienstes, Uhrzeit und Datum Ihrer Nutzung des Dienstes sowie weitere Statistiken enthalten.
 
+**Anonyme Nutzungsdaten (Verbesserung der App)**
+
+Um die App zu verbessern, können **anonyme Nutzungssitzungen** aufgezeichnet und an unseren Hoster (Google Firebase) übermittelt werden: **Ihre Interaktionen in der App** (Bildschirme, Gesten, während der Diktate eingegebener Text) und **begrenzte technische Informationen** (Gerät, Versionen, Sprache, Land, Datum).
+
+Diese Daten:
+
+*   enthalten **keinen Namen, keine E-Mail-Adresse und keine Konto- oder Werbe-ID** und sind **nicht mit Ihrer Identität verknüpft**;
+*   betreffen nur die **kostenlose Version** der App (ein Kauf oder Abonnement deaktiviert diese Aufzeichnung);
+*   dienen **ausschließlich der Verbesserung der App** (Verständnis der Bildschirme, Qualität der Diktate, Flüssigkeit): Sie werden **niemals für Werbung oder Tracking verwendet** und weder verkauft noch zu kommerziellen Zwecken weitergegeben;
+*   sind nur für den Entwickler zugänglich;
+*   sind **auf die letzten 50 Sitzungen begrenzt** und werden **nach 30 Tagen automatisch gelöscht**.
+
+Diese Verarbeitung beruht auf unserem berechtigten Interesse an der Verbesserung des Dienstes (Artikel 6 Absatz 1 Buchstabe f DSGVO). **Sie können ihr jederzeit widersprechen**, indem Sie an [contact@appseven.fr](mailto:contact@appseven.fr) schreiben.
+
 **Cookies**
 
 Cookies sind Dateien mit einer kleinen Datenmenge, die üblicherweise als anonyme eindeutige Kennungen verwendet werden. Sie werden von den von Ihnen besuchten Websites an Ihren Browser gesendet und im internen Speicher Ihres Geräts abgelegt.

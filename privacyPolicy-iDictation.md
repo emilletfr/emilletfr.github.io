@@ -29,6 +29,20 @@ Link to the privacy policy of the third-party services used by the app
 
 I would like to inform you that whenever you use my service, in the event of an error in the app, I collect data and information (through third-party products) about your phone — so-called log data. This log data may include information such as your Internet Protocol ("IP") address, the device name, the operating system version, the app's configuration while using my service, the time and date of your use of the service, and other statistics.
 
+**Anonymous usage data (app improvement)**
+
+To improve the app, **anonymous usage sessions** may be recorded and sent to our host (Google Firebase): **your interactions within the app** (screens, gestures, text typed during dictations) and **limited technical information** (device, versions, language, country, dates).
+
+This data:
+
+*   contains **no name, email address, account or advertising identifier**, and is **not linked to your identity**;
+*   concerns only the **free version** of the app (a purchase or subscription disables this recording);
+*   is used **solely to improve the app** (understanding screens, dictation quality, smoothness): it is **never used for advertising or tracking**, and is never sold or shared for commercial purposes;
+*   is accessible only to the developer;
+*   is **limited to the last 50 sessions** and **deleted automatically after 30 days**.
+
+This processing is based on our legitimate interest in improving the service (Article 6(1)(f) GDPR). **You may object at any time** by writing to [contact@appseven.fr](mailto:contact@appseven.fr).
+
 **Cookies**
 
 Cookies are files containing a small amount of data, commonly used as anonymous unique identifiers. They are sent to your browser by the websites you visit and stored in your device's internal memory.
